@@ -28,7 +28,7 @@ avatar: "/img/appx360-logo.png"
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  About Me: "aboutme"
+  Services: "services"
   Author's home: "http://newaspectmedia.com"
 
 # --- Footer options --- #
@@ -143,5 +143,4 @@ prose:
           label: "Publish"
           help: "Check to publish post, uncheck to hide."
 
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
+# newaspectmedia
