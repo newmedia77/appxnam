@@ -2,6 +2,8 @@
 layout: page
 title: Services
 subtitle: Web Development and Optimization Services
+slug: 
+keywords: web development, web services, web design, webdesign, web application, web applications, web app, web apps, wordpress, wordpress website, site speed
 ---
 
 <p>I develop and integrate applications that enhance business functionality, effectiveness, and productivity.&nbsp; With my&nbsp;expertise in application development, I help businesses grow their customer base, streamline workflow and increase returns on investment.</p>
@@ -24,7 +26,7 @@ subtitle: Web Development and Optimization Services
 
 <h2>Website Maintenance and Support</h2>
 
-<p>Website maintenance and support issues? Website management and solutions Our website maintenance and support covers solutions to all issues a business faces on a day to day basis from content update to tweaking the website. Choose from hourly or monthly packages to suit your business needs. We offer, amongst other services, the following &ndash;</p>
+<p>I offer website maintenance and support solutions such as content update, website tweaks, security updates and website backup. You can choose from hourly or monthly packages to suit your business needs. Here are some of the website maintainance services offered &ndash;</p> 
 
 <ul>
 	<li>Website maintenance and regular updates,</li>
@@ -39,3 +41,5 @@ subtitle: Web Development and Optimization Services
 	<li>Adding images and videos (provided by the customer) to website,</li>
 	<li>Adding products to an e-commerce website.</li>
 </ul>
+
+<p>Packages start from as low as £50. </p>
