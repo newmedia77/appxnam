@@ -42,4 +42,4 @@ keywords: web development, web services, web design, webdesign, web application,
 	<li>Adding products to an e-commerce website.</li>
 </ul>
 
-<p>Packages start from as low as £50. </p>
+<p>Packages start from as low as £50 per hour of service provided. </p>
