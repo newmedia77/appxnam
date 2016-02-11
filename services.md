@@ -21,3 +21,21 @@ subtitle: Web Development and Optimization Services
 <h2>Mobile Application Development</h2>
 
 <p>I develop and integrate mobile applications aimed at businesses such as restaurants, takeaways, professional service providers to help them connect with their clients by offering up to date news, discounts and other information.</p>
+
+<h2>Website Maintenance and Support</h2>
+
+<p>Website maintenance and support issues? Website management and solutions Our website maintenance and support covers solutions to all issues a business faces on a day to day basis from content update to tweaking the website. Choose from hourly or monthly packages to suit your business needs. We offer, amongst other services, the following &ndash;</p>
+
+<ul>
+	<li>Website maintenance and regular updates,</li>
+	<li>Content management (content provided by client),</li>
+	<li>Blog update (unique articles and features at additional cost)</li>
+	<li>Backup and restore of website,</li>
+	<li>Website recovery,</li>
+	<li>Malware removal,</li>
+	<li>Fix broken links,</li>
+	<li>Update or amend content of the website,</li>
+	<li>Social Media Updates (does not include fan page creation or other social profiles creation),</li>
+	<li>Adding images and videos (provided by the customer) to website,</li>
+	<li>Adding products to an e-commerce website.</li>
+</ul>
