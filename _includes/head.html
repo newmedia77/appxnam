@@ -10,7 +10,9 @@
   {% if page.subtitle %}
   <meta name="description" content="{{ page.subtitle }}">
   {% endif %}
-    
+  {% if page.desc %}
+<meta name="description" content="{{ page.desc }}" />
+{% else %}
 <meta name="description" content="Web development and website optimization services specialist based in London" />
 {% endif %}
 {% if page.keywords %}
@@ -19,6 +21,9 @@
 <meta name="keywords" content="web development, web dev, web design, application development, website optimization, website speed, site speed," />
 {% endif %}
   {% if site.name %}
+  <meta name="author" content="{{ site.name }}">
+<meta name="copyright" content="&copy; {{ site.name }} {{ site.time | date: '%Y' }}">
+{% endif %}
 
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
