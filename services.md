@@ -43,3 +43,29 @@ keywords: web development, web services, web design, webdesign, web application,
 </ul>
 
 <p>Packages start from as low as £50 per hour of service provided. </p>
+
+<p>Search Engine Optimization (SEO), Social Media Marketing (SMM), Website Content Development, Web Content Marketing, Website Audit and Website Consulting, Pay Per Click or PPC, Mobile Web Design, &nbsp;Quality Inbound Links and more.</p>
+
+<p>SEO service covers local search engine optimization, on-page optimization, off-site optimization.</p>
+
+<h2>Local SEO service</h2>
+
+<p>Local targeting is crucial where the customer base is specific to a geographic area. Get your website content tuned to reach your&nbsp;niche market with my expertise.</p>
+
+<p>I also offer the following services to improve page ranking&nbsp;&ndash;</p>
+
+<ul>
+	<li>Optimize&nbsp;web content or create new optimized web content</li>
+	<li>Quality Link Building</li>
+	<li>Quality back linking is important for a website. We work on authority links which are valued by search engines. It is the quality of links that matter not the quantity.</li>
+	<li>Authority content</li>
+	<li>Content in your website is important that is not only of high quality, backed by authority and which relates to your website intent. We strive to keep the content fresh and organic. Search engines can&rsquo;t get enough of it!</li>
+</ul>
+
+<h2>Pay Per Click (PPC)</h2>
+
+<p>Pay per click or PPC is effective if done correctly. As a Google Adwords Partner I can plan your PPC for maximum returns on your marketing investment.&nbsp;</p>
+
+<h2>Follow up SEO packages -</h2>
+
+<p>SEO is an&nbsp;ongoing processes. Therefore, to stay ahead of the game I offer followup optimization packages which insure that you stay ahead of your competetion.&nbsp;These packages start from as low as &nbsp;&pound;50* per month.&nbsp;</p>
