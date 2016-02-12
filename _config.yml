@@ -30,7 +30,7 @@ navbar-links:
   Home: ""
   Services: "services"
   Contact: "contact"
-  Blog: "blog"
+  Blog: ""
 
 # --- Footer options --- #
 
