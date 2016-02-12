@@ -119,4 +119,63 @@ Linkdin-&nbsp;<a href="http://www.linkedin.com/static?key=privacy_policy" target
 
 <p>To get more information on how an online business uses cookies you can search online for informational resources or read books for in-depth information.</p>
 
-<p><a href="http://www.newaspectmedia.com/how-to-disable-cookies" title="How to disable cookies">How to disable cookies?</a></p>
+<p>Our&nbsp;<a href="http://www.newaspectmedia.com/cookie-policy" title="Cookie policy">Cookie Policy</a>&nbsp;details how cookies help you to get the most out of our websites. Therefore, if you do disable our cookies or third party cookies you may find that certain sections of our website do not work.</p>
+
+<h3>Disabling behaviourally targeted advertising cookies</h3>
+
+<p>If you are concerned about behaviourally targeted advertising cookies which serve you advertisements based on your use of www.NewAspectMedia.com and wish to disable these and opt out, please visit (external sites) &ndash;<br />
+<a href="http://www.youronlinechoices.eu/" target="_blank" title="Your online choices EU">http://www.youronlinechoices.eu</a>&nbsp; (if you are based in the EU)<br />
+<a href="http://www.aboutads.info/choices/" target="_blank" title="About ads ">http://www.aboutads.info/choices/</a>&nbsp;(if you are based in the US)</p>
+
+<p>The stated websites are external links and are not New Aspect Media sites and we are not responsible for their content.</p>
+
+<h2>How to enable and disable cookies using your browser (below is the list of major search engines)</h2>
+
+<p><strong>Google Chrome</strong></p>
+
+<ul>
+	<li>Click the wrench icon on the browser toolbar</li>
+	<li>Select Settings</li>
+	<li>Click &lsquo;Show advanced settings&rsquo;</li>
+	<li>In the &ldquo;Privacy&rdquo; section, click the &lsquo;Content settings&rsquo; button</li>
+	<li>To enable cookies in the &ldquo;Cookies&rdquo; section, pick &lsquo;Allow local data to be set&rsquo;, this will enable both first-party and third-party cookies. To allow only first-party cookies pick &lsquo;Block all third-party cookies without exception&rsquo;</li>
+	<li>To disable cookies, in the &ldquo;Cookies&rdquo; section, pick &lsquo;Block sites from setting any data&rsquo;</li>
+</ul>
+
+<p>Please note that there are various levels of disablement in Google Chrome. For more information on other cookie settings offered in Google Chrome, kindly refer to the following page from Google (external link)-<a href="http://support.google.com/chrome/bin/answer.py?hl=en&amp;answer=95647" target="_blank" title="Google chrome privacy">http://support.google.com/chrome/bin/answer.py?hl=en&amp;answer=95647</a></p>
+
+<p><strong>Microsoft Internet Explorer 6.0, 7.0, 8.0</strong></p>
+
+<ul>
+	<li>Click on &lsquo;Tools&rsquo; at the top of your browser window and select &lsquo;Internet Options&rsquo;</li>
+	<li>In the options window navigate to the &lsquo;Privacy&rsquo; tab</li>
+	<li>To enable cookies: Set the slider to &lsquo;Medium&rsquo; or below</li>
+	<li>To disable cookies: Move the slider to the top to block all cookies</li>
+</ul>
+
+<p>Please note that there are various levels of cookie disablement in Microsoft Internet Explorer. For more information on other cookie settings offered in Microsoft Internet Explorer, kindly refer to the following page from Microsoft (external link) &ndash;<a href="http://windows.microsoft.com/en-GB/windows-vista/Block-or-allow-cookies" target="_blank" title="Microsoft Internet Explorer privacy">http://windows.microsoft.com/en-GB/windows-vista/Block-or-allow-cookies</a></p>
+
+<p><strong>Mozilla Firefox</strong></p>
+
+<ul>
+	<li>Click on &lsquo;Tools&rsquo; at the browser menu and select &lsquo;Options&rsquo;</li>
+	<li>Select the Privacy panel</li>
+	<li>To enable cookies click Check &lsquo;Accept cookies for sites&rsquo;</li>
+	<li>To disable cookies click Uncheck &lsquo;Accept cookies for sites&rsquo;</li>
+</ul>
+
+<p>Please note there are various levels of cookie disablement in Firefox. For more information, refer to the following page from Mozilla (external link) &ndash;&nbsp;<a href="http://support.mozilla.org/en-US/kb/Enabling%20and%20disabling%20cookies" target="_blank" title="Firefox privacy">http://support.mozilla.org/en-US/kb/Enabling%20and%20disabling%20cookies</a></p>
+
+<p><strong>Opera</strong></p>
+
+<ul>
+	<li>Click on &lsquo;Setting&rsquo; at the browser menu and select &lsquo;Settings&rsquo;</li>
+	<li>Select &lsquo;Quick Preferences&rsquo;</li>
+	<li>Choose to disable cookies.</li>
+</ul>
+
+<p>Please read Opera privacy policy (external link) &ndash;<a href="http://www.opera.com/privacy/" title="Opera privacy policy">&nbsp;http://www.opera.com/privacy/</a></p>
+
+<p><strong>For all other browsers not listed above</strong></p>
+
+<p>Please look for a &ldquo;help&rdquo; function in the browser or contact the provider of your browser.</p>
