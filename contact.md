@@ -21,7 +21,7 @@ slug:
     <input type="text" name="_gotcha" style="display:none" />
 </div>
     <input type="submit" value="Send">
-     <input type="hidden" name="_next" value="//newaspectmedia.com/" />
+     <input type="hidden" name="_next" value="/newaspectmedia.com/" />
  </form>
 
         
