@@ -30,7 +30,7 @@ navbar-links:
   Home: ""
   Services: "services"
   Contact: "contact"
-  Blog: "archives"
+  Blog: "blog"
 
 # --- Footer options --- #
 
@@ -79,7 +79,7 @@ paginate: 5
 defaults:
   -
     scope:
-      path: ""
+      path: "posts"
       type: "posts"
     values:
       comments: true  # add comments to all blog posts
