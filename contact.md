@@ -16,6 +16,4 @@ slug:
             <input type="hidden" name="_next" value="//bromleytherapies.com/" />
         </form>
 
-        <script type="text/javascript">
-            var contactform = document.getElementById('contactform');contactform.setAttribute('action','//formspree.io/' + 'newaspectmedia' + '@' + 'gmail' + '.' + 'com');
-        </script>
+        
