@@ -6,9 +6,11 @@ slug:
 ---
 <form role="form" action="//formspree.io/newaspectmedia@gmail.com" method="POST">
 <div class = "form-group">
+    <label for="name">Name</label>
     <input type="text" name="name">
 </div>
 <div class = "form-group">
+    <label for="email">Email</label>
     <input type="email" name="_replyto">
 </div>
     <button type="submit" value="Send" class = "btn btn-default">Submit</button>
