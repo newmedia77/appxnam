@@ -17,7 +17,7 @@ baseurl: "/appxnam"
 title: New Aspect Media
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: London Web Developer and SEO specialist!
 
 # --- Navigation bar options --- #
 
@@ -29,7 +29,8 @@ avatar: "/img/appx360-logo.png"
 navbar-links:
   Home: ""
   Services: "services"
-  Author's home: "http://newaspectmedia.com"
+  Contact: "contact"
+  Blog: "blog"
 
 # --- Footer options --- #
 
@@ -73,6 +74,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
+paginate_path: "/blog/page:num/"
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
