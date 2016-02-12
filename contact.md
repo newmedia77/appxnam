@@ -11,7 +11,7 @@ slug:
 <div class = "form-group">
     <input type="email" name="_replyto">
 </div>
-    <button type="submit" value="Send" class = "btn btn-default"></button>
+    <button type="submit" value="Send" class = "btn btn-default">Submit</button>
     <input type="text" name="_gotcha" style="display:none" />
     <input type="hidden" name="_next" value="//newaspectmedia.com" />
 </form>
