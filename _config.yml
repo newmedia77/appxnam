@@ -79,7 +79,7 @@ paginate: 5
 defaults:
   -
     scope:
-      path: ""
+      path: "/"
       type: "posts"
     values:
       comments: true  # add comments to all blog posts
