@@ -4,7 +4,7 @@ title: Contact
 subtitle: Hire me
 slug: 
 ---
-<form role="form" action="//formspree.io/newaspectmedia@gmail.com" method="POST">
+<form role="form" id="contactForm" method="POST">
 <div class = "form-group">
     <label for="name">Name</label>
     <input type="text" name="name">
