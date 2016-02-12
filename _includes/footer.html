@@ -92,13 +92,20 @@
         </ul></div>
   <!-- Optional: clear the XS cols if their content doesn't match in height -->
   <div class="clearfix visible-xs-block"></div>
-  <div class="col-xs-6 col-sm-4">.col-xs-6 .col-sm-4</div>
+  <div class="col-xs-6 col-sm-4">
+      &nbsp;&bull;&nbsp;
+      {{ site.time | date: '%Y' }}
+      
+      {% if site.url-pretty %}
+      &nbsp;&bull;&nbsp;
+      <a href="{{ site.url }}">{{ site.url-pretty }}</a>
+      {% endif %}</div>
 </div>
 
 
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-        <p class="copyright text-muted">
+      <p class="copyright text-muted">
 		  {{ site.author.name }}
 		  &nbsp;&bull;&nbsp;
 		  {{ site.time | date: '%Y' }}
