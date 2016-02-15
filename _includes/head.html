@@ -51,6 +51,12 @@
     {% endfor %}
   {% endif %}
 
+   {% if page.font-css %}
+    {% for css in page.font-css %}
+      <link rel="stylesheet" href="{{ css | prepend: site.baseurl | replace: '//', '/' }}" />
+    {% endfor %}
+  {% endif %}
+
   {% if page.common-googlefonts %}
     {% for font in page.common-googlefonts %}
       <link rel="stylesheet" href="//fonts.googleapis.com/css?family={{ font }}" />
