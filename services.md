@@ -48,7 +48,7 @@ keywords: web development, web services, web design, webdesign, web application,
 
 <p>SEO service covers local search engine optimization, on-page optimization, off-site optimization.</p>
 
-<h2>Local SEO service</h2>
+<h2><i class="fa fa-map-marker fa-2x"></i>&nbsp;Local SEO service</h2>
 
 <p>Local targeting is crucial where the customer base is specific to a geographic area. Get your website content tuned to reach your&nbsp;niche market with my expertise.</p>
 
@@ -62,7 +62,7 @@ keywords: web development, web services, web design, webdesign, web application,
 	<li>Content in your website is important that is not only of high quality, backed by authority and which relates to your website intent. We strive to keep the content fresh and organic. Search engines can&rsquo;t get enough of it!</li>
 </ul>
 
-<h2>Pay Per Click (PPC)</h2>
+<h2><i class="fa fa-dot-circle-o fa-2x"></i>&nbsp;Pay Per Click (PPC)</h2>
 
 <p>Pay per click or PPC is effective if done correctly. As a Google Adwords Partner I can plan your PPC for maximum returns on your marketing investment.&nbsp;</p>
 
@@ -75,9 +75,8 @@ keywords: web development, web services, web design, webdesign, web application,
     <div class="thumbnail">
       <i class="fa fa-code fa-3x"></i>
         <h3>Custom Development</h3>
-        </div>
         <p>I develop and integrate highly effective data-driven&nbsp;web applications to perform complex functions such as applying access controls on document sharing, email marketing, event and booking management, user analytics, subscription management amongst other things.</p>
-    
+    </div>
   </div>
     <div class="col-sm-6 col-md-4">
     <div class="thumbnail">
