@@ -81,7 +81,7 @@ keywords: web development, web services, web design, webdesign, web application,
     <div class="col-sm-6 col-md-4">
     <div class="thumbnail">
       <i class="fa fa-shopping-cart fa-2x"></i>
-        <h3><eCommerce Development</h3>
+        <h3>eCommerce</h3>
         <p>I build solid e-commerce solutions that work on various platforms such as Magento, Prestashop, Modx, Drupal and WordPress. With custom coding and module development, I can give you an edge over your competitors.</p>
     </div>
   </div>
