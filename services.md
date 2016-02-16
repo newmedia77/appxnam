@@ -76,7 +76,7 @@ keywords: web development, web services, web design, webdesign, web application,
       <i class="fa fa-code fa-3x"></i>
       <div class="caption">
         <h3>Custom Development</h3>
-        <p>...</p>
+        <p>I develop and integrate highly effective data-driven&nbsp;web applications to perform complex functions such as applying access controls on document sharing, email marketing, event and booking management, user analytics, subscription management amongst other things.</p>
       </div>
     </div>
   </div>
