@@ -61,12 +61,12 @@ hr.small {
 ::-moz-selection {
   color: white;
   text-shadow: none;
-  background: #0085a1;
+  background: #FFA500;
 }
 ::selection {
   color: white;
   text-shadow: none;
-  background: #0085a1;
+  background: #FFA500
 }
 img::selection {
   color: white;
@@ -357,8 +357,8 @@ header.header-post .post-heading .post-subheading {
 .pager li a:hover,
 .pager li a:focus {
   color: #FFF;
-  background: #0085a1;
-  border: 1px solid #0085a1;
+  background: #FFA500;
+  border: 1px solid #FFA500;
 }
 
 .pager {
