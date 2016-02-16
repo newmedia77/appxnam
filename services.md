@@ -69,3 +69,26 @@ keywords: web development, web services, web design, webdesign, web application,
 <h2>Follow up SEO packages -</h2>
 
 <p>SEO is an&nbsp;ongoing processes. Therefore, to stay ahead of the game I offer followup optimization packages which insure that you stay ahead of your competetion.&nbsp;These packages start from as low as &nbsp;&pound;50* per month.&nbsp;</p>
+
+<div class="row">
+  <div class="col-sm-6 col-md-4">
+    <div class="thumbnail">
+      <img src="..." alt="...">
+      <div class="caption">
+        <h3>Thumbnail label</h3>
+        <p>...</p>
+        <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+      </div>
+    </div>
+  </div>
+    <div class="col-sm-6 col-md-4">
+    <div class="thumbnail">
+      <img src="..." alt="...">
+      <div class="caption">
+        <h3>Thumbnail label</h3>
+        <p>...</p>
+        <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+      </div>
+    </div>
+  </div>
+</div>
