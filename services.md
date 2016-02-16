@@ -72,14 +72,12 @@ keywords: web development, web services, web design, webdesign, web application,
 
 <div class="row">
   <div class="col-sm-6 col-md-4">
-    <div class="thumbnail">
       <i class="fa fa-code"></i>
       <div class="caption">
         <h3>Custom Development</h3>
         <p>...</p>
       </div>
-    </div>
-  </div>
+     </div>
     <div class="col-sm-6 col-md-4">
     <div class="thumbnail">
       <img src="..." alt="...">
