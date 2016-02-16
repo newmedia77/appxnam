@@ -10,7 +10,7 @@ keywords: web development, web services, web design, webdesign, web application,
 
 <h2>&nbsp;e-Commerce Solutions</h2>
 
-<p>I build solid e-commerce solutions that work on various platforms such as Magento, Prestashop, Modx, Drupal and WordPress. With custom coding and module development, I can give you an edge over your competitors.</p>
+<p><i class="fa fa-shopping-cart fa-2x"></i> I build solid e-commerce solutions that work on various platforms such as Magento, Prestashop, Modx, Drupal and WordPress. With custom coding and module development, I can give you an edge over your competitors.</p>
 
 <h2>Data Driven Websites</h2>
 
