@@ -12,19 +12,19 @@ keywords: web development, web services, web design, webdesign, web application,
 
 <p>I build solid e-commerce solutions that work on various platforms such as Magento, Prestashop, Modx, Drupal and WordPress. With custom coding and module development, I can give you an edge over your competitors.</p>
 
-<h2>Data Driven Websites</h2>
+<h2><i class="fa fa-gears fa-2x"></i>&nbsp;Data Driven Websites</h2>
 
 <p>I develop and integrate highly effective data-driven&nbsp;web applications to perform complex functions such as applying access controls on document sharing, email marketing, event and booking management, user analytics, subscription management amongst other things.</p>
 
-<h2>Data Management Systems</h2>
+<h2><i class="fa fa-database fa-2x"></i>&nbsp;Data Management Systems</h2>
 
 <p>I provide database design, development and maintenance services to help business with data integration solutions to increase the efficiency and productivity. With vast experience in MySQL and Microsoft SQL data management systems, I can create custom&nbsp;database management systems such as inventory management, analytical applications, interactive forms and many other solutions.</p>
 
-<h2>Mobile Application Development</h2>
+<h2><i class="fa fa-mobile fa-2x"></i>&nbsp;Mobile Application Development</h2>
 
 <p>I develop and integrate mobile applications aimed at businesses such as restaurants, takeaways, professional service providers to help them connect with their clients by offering up to date news, discounts and other information.</p>
 
-<h2>Website Maintenance and Support</h2>
+<h2><i class="fa fa-wrench fa-2x"></i>&nbsp;Website Maintenance and Support</h2>
 
 <p>I offer website maintenance and support solutions such as content update, website tweaks, security updates and website backup. You can choose from hourly or monthly packages to suit your business needs. Here are some of the website maintainance services offered &ndash;</p> 
 
