@@ -69,29 +69,3 @@ keywords: web development, web services, web design, webdesign, web application,
 <h2>Follow up SEO packages -</h2>
 
 <p>SEO is an&nbsp;ongoing processes. Therefore, to stay ahead of the game I offer followup optimization packages which insure that you stay ahead of your competetion.&nbsp;These packages start from as low as &nbsp;&pound;50* per month.&nbsp;</p>
-
-<div class="row">
-  <div class="col-sm-6 col-md-4">
-    <div class="thumbnail">
-      <i class="fa fa-code fa-3x"></i>
-        <h3>Custom Development</h3>
-        <p>I develop and integrate highly effective data-driven&nbsp;web applications to perform complex functions such as applying access controls on document sharing, email marketing, event and booking management, user analytics, subscription management amongst other things.</p>
-    </div>
-  </div>
-    <div class="col-sm-6 col-md-4">
-    <div class="thumbnail">
-      <i class="fa fa-shopping-cart fa-2x"></i>
-        <h3>eCommerce</h3>
-        <p>I build solid e-commerce solutions that work on various platforms such as Magento, Prestashop, Modx, Drupal and WordPress. With custom coding and module development, I can give you an edge over your competitors.</p>
-    </div>
-  </div>
-      <div class="col-sm-6 col-md-4">
-    <div class="thumbnail">
-      <img src="..." alt="...">
-      <div class="caption">
-        <h3>Thumbnail label</h3>
-        <p>...</p>
-      </div>
-    </div>
-  </div>
-</div>
