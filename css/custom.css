@@ -24,3 +24,8 @@ i.icon-csharp.fa-5x {
     padding-bottom: 100px;
     background-attachment: scroll;
 }
+.container {
+    width: 100%;
+    margin-right: 0;
+    margin-left: 0;
+}
