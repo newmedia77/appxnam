@@ -35,15 +35,11 @@ i.icon-csharp.fa-5x {
     margin-left: 0px;
 }
 .home-page-heading h1 {
-    font-size: 60px;
+    font-size: 30px;
     text-align: center;
     margin-top: -200px;
 }
 .home-page-subheading {
-    font-size: 25px;
+    font-size: 20px;
     text-align: center;
-}
-@media only screen and (min-width: 768px)
-.main-content {
-    padding-top: 0;
 }
