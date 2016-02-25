@@ -1,4 +1,7 @@
 /*Custom CSS */
+.navbar-custom {
+  background: #FFFFFF;
+}
 .row {
   margin-right: 0;
   margin-left: 0;
@@ -30,7 +33,4 @@ i.icon-csharp.fa-5x {
     padding-left: 0px;
     margin-right: 0px;
     margin-left: 0px;
-}
-.navbar-custom {
-  background: #FFFFFF;
 }
