@@ -4,7 +4,7 @@ title: Contact
 subtitle: Hire me
 slug: 
 ---
-<div class="page-heading">Web Development in London &#124; Website Optimization Services</div>
+<p>Web Development in London &#124; Website Optimization Services</p>
 <form role="form" id="contactForm" method="POST">
 <div class="form-group">
     <input type="text" name="name" placeholder="Your Name">

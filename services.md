@@ -8,23 +8,23 @@ keywords: web development, web services, web design, webdesign, web application,
 
 <p>I develop and integrate applications that enhance business functionality, effectiveness, and productivity.&nbsp; With my&nbsp;expertise in application development, I help businesses grow their customer base, streamline workflow and increase returns on investment.</p>
 
-<h2>&nbsp;e-Commerce Solutions</h2>
+<h2><i class="fa fa-shopping-cart fa-1x"></i>&nbsp;e-Commerce Solutions</h2>
 
 <p>I build solid e-commerce solutions that work on various platforms such as Magento, Prestashop, Modx, Drupal and WordPress. With custom coding and module development, I can give you an edge over your competitors.</p>
 
-<h2>Data Driven Websites</h2>
+<h2><i class="fa fa-gears fa-1x"></i>&nbsp;Data Driven Websites</h2>
 
 <p>I develop and integrate highly effective data-driven&nbsp;web applications to perform complex functions such as applying access controls on document sharing, email marketing, event and booking management, user analytics, subscription management amongst other things.</p>
 
-<h2>Data Management Systems</h2>
+<h2><i class="fa fa-database fa-1x"></i>&nbsp;Data Management Systems</h2>
 
 <p>I provide database design, development and maintenance services to help business with data integration solutions to increase the efficiency and productivity. With vast experience in MySQL and Microsoft SQL data management systems, I can create custom&nbsp;database management systems such as inventory management, analytical applications, interactive forms and many other solutions.</p>
 
-<h2>Mobile Application Development</h2>
+<h2><i class="fa fa-mobile fa-1x"></i>&nbsp;Mobile Application Development</h2>
 
 <p>I develop and integrate mobile applications aimed at businesses such as restaurants, takeaways, professional service providers to help them connect with their clients by offering up to date news, discounts and other information.</p>
 
-<h2>Website Maintenance and Support</h2>
+<h2><i class="fa fa-wrench fa-1x"></i>&nbsp;Website Maintenance and Support</h2>
 
 <p>I offer website maintenance and support solutions such as content update, website tweaks, security updates and website backup. You can choose from hourly or monthly packages to suit your business needs. Here are some of the website maintainance services offered &ndash;</p> 
 
@@ -48,7 +48,7 @@ keywords: web development, web services, web design, webdesign, web application,
 
 <p>SEO service covers local search engine optimization, on-page optimization, off-site optimization.</p>
 
-<h2>Local SEO service</h2>
+<h2><i class="fa fa-map-marker fa-1x"></i>&nbsp;Local SEO service</h2>
 
 <p>Local targeting is crucial where the customer base is specific to a geographic area. Get your website content tuned to reach your&nbsp;niche market with my expertise.</p>
 
@@ -62,7 +62,7 @@ keywords: web development, web services, web design, webdesign, web application,
 	<li>Content in your website is important that is not only of high quality, backed by authority and which relates to your website intent. We strive to keep the content fresh and organic. Search engines can&rsquo;t get enough of it!</li>
 </ul>
 
-<h2>Pay Per Click (PPC)</h2>
+<h2><i class="fa fa-dot-circle-o fa-1x"></i>&nbsp;Pay Per Click (PPC)</h2>
 
 <p>Pay per click or PPC is effective if done correctly. As a Google Adwords Partner I can plan your PPC for maximum returns on your marketing investment.&nbsp;</p>
 

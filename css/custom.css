@@ -1,5 +1,36 @@
 /*Custom CSS */
+.navbar-custom {
+  background: #FFFFFF;
+}
 .row {
   margin-right: 0;
   margin-left: 0;
+}
+.footer-row {
+	text-align: center;
+	vertical-align: top;
+}
+i.icon-ruby.fa-5x {
+    vertical-align: top;
+}
+i.icon-csharp.fa-5x {
+    vertical-align: top;
+}
+.home-header {
+    margin-bottom: 20px;
+    background: url("http://newmedia77.github.io/newmediasite/img/header-bg.jpg");
+    background-size: cover;
+    color: white;
+    text-shadow: 1px 0 4px #444;
+    background-position: center top;
+    padding-top: 350px;
+    padding-bottom: 100px;
+    background-attachment: scroll;
+}
+.container {
+    width: 100%;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
 }

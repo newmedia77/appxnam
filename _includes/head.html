@@ -51,8 +51,14 @@
     {% endfor %}
   {% endif %}
 
-   {% if page.font-css %}
+  {% if page.font-css %}
     {% for css in page.font-css %}
+      <link rel="stylesheet" href="{{ css | prepend: site.baseurl | replace: '//', '/' }}" />
+    {% endfor %}
+  {% endif %}
+
+  {% if page.custom-css %}
+    {% for css in page.custom-css %}
       <link rel="stylesheet" href="{{ css | prepend: site.baseurl | replace: '//', '/' }}" />
     {% endfor %}
   {% endif %}
