@@ -34,12 +34,12 @@ i.icon-csharp.fa-5x {
     margin-right: 0px;
     margin-left: 0px;
 }
-h1.home-page-heading {
+.home-page-heading h1 {
     font-size: 60px;
     text-align: center;
     margin-top: -200px;
 }
-h2.home-page-heading {
+.home-page-heading h2 {
     font-size: 25px;
     text-align: center;
 }
