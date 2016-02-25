@@ -325,6 +325,36 @@ header.header-post .post-heading .post-subheading {
   }
 }
 
+/* --- Home page header heading --- */
+
+header.home-header {
+  margin-bottom: 20px;
+}
+
+header.home-header .home-page-heading{
+  text-align: center;
+}
+
+header.home-header .home-page-heading h1 {
+  font-size: 50px;
+  margin-top: 0;
+}
+
+header.home-header .home-page-heading .home-page-subheading {
+  font-size: 24px;
+  line-height: 1.1;
+  display: block;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  margin: 10px 0 0;
+}
+
+@media only screen and (min-width: 768px) {
+  header.home-header .home-page-heading h1 {
+    font-size: 68px;
+  }
+}
+
 .caption {
   text-align: center;
   font-size: 14px;
