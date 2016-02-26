@@ -41,5 +41,5 @@ aside.clients {
 }
 @media (min-width: 992px)
 .col-md-4 {
-  float: left;
+  float: left !important;
 }
