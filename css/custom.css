@@ -39,7 +39,4 @@ i.icon-csharp.fa-5x {
 aside.clients {
   text-align: center;
 }
-@media (min-width: 992px)
-.col-md-4 {
-  float: left !important;
-}
+
