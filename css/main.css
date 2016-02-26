@@ -22,7 +22,7 @@ h1,h2,h3,h4,h5,h6 {
   font-weight: 800;
 }
 a {
-  color: #008AFF;
+  color: #444444;
 }
 a:hover,
 a:focus {
@@ -325,6 +325,37 @@ header.header-post .post-heading .post-subheading {
   }
 }
 
+/* --- Home page header heading --- */
+
+header.home-header {
+  margin-bottom: 20px;
+}
+
+header.home-header .home-page-heading{
+  text-align: center;
+}
+
+header.home-header .home-page-heading h1 {
+  font-size: 40px;
+  margin-top: 0;
+}
+
+header.home-header .home-page-heading .home-page-subheading {
+  font-size: 30px;
+  line-height: 1.1;
+  display: block;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 600;
+  text-shadow: 1px 3px #000000;
+  margin: 10px 0 0;
+}
+
+@media only screen and (min-width: 768px) {
+  header.home-header .home-page-heading h1 {
+    font-size: 60px;
+  }
+}
+
 .caption {
   text-align: center;
   font-size: 14px;
@@ -437,4 +468,3 @@ input[type="checkbox"], input[type="radio"] { display: inline; margin-right: 7.2
 input[type="file"] { padding-bottom: 14.4px; width: 100%; }
 
 select { margin-bottom: 28.8px; max-width: 100%; width: auto; }
-
