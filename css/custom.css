@@ -39,4 +39,6 @@ i.icon-csharp.fa-5x {
 aside.clients {
   text-align: center;
 }
-
+.text-primary {
+    color:#444444;
+}
