@@ -42,3 +42,7 @@ aside.clients {
 .text-primary {
     color:#444444;
 }
+@media (min-width: 768px)
+col-xs-6 {
+    width: 50%;
+}
