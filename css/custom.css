@@ -43,6 +43,11 @@ aside.clients {
     color:#444444;
 }
  /* Custom Styles */
-      .affix {
+.container-fluid {
+    height: 200px;
+    background: #FFA500;
+    color: #FFFFFF;
+ }
+.affix {
       top: 130px;
   }
