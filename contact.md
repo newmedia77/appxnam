@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-subtitle: Hire me
+subtitle: We Build Great Web &amp; Mobile Apps
 slug: 
 ---
 <p>Web Development in London &#124; Website Optimization Services</p>
