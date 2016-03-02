@@ -47,6 +47,7 @@ aside.clients {
     height: 200px;
     background: #FFA500;
     color: #FFFFFF;
+    padding: 10px;
  }
 .affix {
       top: 130px;
