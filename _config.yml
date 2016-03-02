@@ -29,7 +29,7 @@ avatar: "/img/appx360-logo.png"
 navbar-links:
   Home: ""
   Services: "services"
-    - "test"
+    - subtitle: "test"
   Contact: "contact"
 
 # --- Footer options --- #
