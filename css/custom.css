@@ -49,7 +49,7 @@ aside.clients {
     color: #FFFFFF;
     padding: 10px;
  }
- @media only screen and (min-width: 768px)
+ @media (min-width: 768px)
 .affix {
       top: 130px;
   }
