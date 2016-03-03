@@ -472,11 +472,11 @@ select { margin-bottom: 28.8px; max-width: 100%; width: auto; }
 /* Custom */
 
 @media (min-width: 1200px)
-nav.col-sm-3.affix, .col-sm-3.affix-bottom {
+.bs-docs-sidebar.affix, .bs-docs-sidebar.affix-bottom {
     width: 263px;
 }
 @media (min-width: 992px)
-nav.col-sm-3.affix {
+.bs-docs-sidebar.affix {
     position: fixed;
     top: 20px;
 }
@@ -485,7 +485,7 @@ nav.col-sm-3.affix {
     padding-left: 20px;
 }
 @media (min-width: 992px)
-nav.col-sm-3.affix.bs-docs-sidenav, nav.col-sm-3.affix-bottom .bs-docs-sidenav {
+.bs-docs-sidebar.affix .bs-docs-sidenav, .bs-docs-sidebar.affix-bottom .bs-docs-sidenav {
     margin-top: 0;
     margin-bottom: 0;
 }
@@ -494,7 +494,7 @@ nav.col-sm-3.affix.bs-docs-sidenav, nav.col-sm-3.affix-bottom .bs-docs-sidenav {
     margin-bottom: 20px;
 }
 @media (min-width: 992px)
-nav.col-sm-3.affix, nav.col-sm-3.affix-bottom {
+.bs-docs-sidebar.affix, .bs-docs-sidebar.affix-bottom {
     width: 213px;
 }
 .bs-docs-sidebar.affix {
@@ -504,4 +504,3 @@ nav.col-sm-3.affix, nav.col-sm-3.affix-bottom {
 .bs-docs-sidebar {
     padding-left: 20px;
 }
-
