@@ -475,10 +475,7 @@ select { margin-bottom: 28.8px; max-width: 100%; width: auto; }
 .bs-docs-sidebar.affix, .bs-docs-sidebar.affix-bottom {
     width: 263px;
 }
-@media (min-width: 768px)
-.bs-docs-sidebar.affix {
-    position: fixed;
-    top: 20px;
+
 }
 @media (min-width: 768px)
 .bs-docs-sidebar {
