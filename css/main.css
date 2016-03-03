@@ -472,11 +472,11 @@ select { margin-bottom: 28.8px; max-width: 100%; width: auto; }
 /* Custom */
 
 @media (min-width: 1200px)
-.col-sm-3.affix, .col-sm-3.affix-bottom {
+nav.col-sm-3.affix, .col-sm-3.affix-bottom {
     width: 263px;
 }
 @media (min-width: 992px)
-..col-sm-3.affix {
+nav.col-sm-3.affix {
     position: fixed;
     top: 20px;
 }
@@ -485,7 +485,7 @@ select { margin-bottom: 28.8px; max-width: 100%; width: auto; }
     padding-left: 20px;
 }
 @media (min-width: 992px)
-.col-sm-3.affix.bs-docs-sidenav, .col-sm-3.affix-bottom .bs-docs-sidenav {
+nav.col-sm-3.affix.bs-docs-sidenav, nav.col-sm-3.affix-bottom .bs-docs-sidenav {
     margin-top: 0;
     margin-bottom: 0;
 }
@@ -494,7 +494,7 @@ select { margin-bottom: 28.8px; max-width: 100%; width: auto; }
     margin-bottom: 20px;
 }
 @media (min-width: 992px)
-.col-sm-3.affix, .col-sm-3.affix-bottom {
+nav.col-sm-3.affix, nav.col-sm-3.affix-bottom {
     width: 213px;
 }
 .bs-docs-sidebar.affix {
