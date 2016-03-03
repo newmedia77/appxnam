@@ -469,7 +469,7 @@ input[type="file"] { padding-bottom: 14.4px; width: 100%; }
 
 select { margin-bottom: 28.8px; max-width: 100%; width: auto; }
 
-/* Custom
+/* Custom */
 
 @media (min-width: 1200px)
 .bs-docs-sidebar.affix, .bs-docs-sidebar.affix-bottom {
@@ -504,4 +504,4 @@ select { margin-bottom: 28.8px; max-width: 100%; width: auto; }
 .bs-docs-sidebar {
     padding-left: 20px;
 }
-*/
+
