@@ -49,4 +49,6 @@ aside.clients {
     color: #FFFFFF;
     padding: 10px;
  }
- 
+ .affix {
+      top: 20px;
+  }
