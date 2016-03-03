@@ -471,11 +471,11 @@ select { margin-bottom: 28.8px; max-width: 100%; width: auto; }
 
 /* Custom */
 
-@media (min-width: 1200px)
+@media (min-width: 992px)
 .bs-docs-sidebar.affix, .bs-docs-sidebar.affix-bottom {
     width: 203px;
 }
-@media (min-width: 992px)
+@media (min-width: 768px)
 .bs-docs-sidebar.affix {
     position: fixed;
     top: 20px;
@@ -484,7 +484,7 @@ select { margin-bottom: 28.8px; max-width: 100%; width: auto; }
 .bs-docs-sidebar {
     padding-left: 20px;
 }
-@media (min-width: 992px)
+@media (min-width: 768px)
 .bs-docs-sidebar.affix .bs-docs-sidenav, .bs-docs-sidebar.affix-bottom .bs-docs-sidenav {
     margin-top: 0;
     margin-bottom: 0;
