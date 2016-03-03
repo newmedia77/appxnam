@@ -52,3 +52,7 @@ aside.clients {
  .affix {
       top: 20px;
   }
+  ul.nav.nav-pills.nav-stacked.affix {
+    top: 50px;
+    width: 280px;
+}
