@@ -4,7 +4,7 @@ title: Contact
 subtitle: We Build Great Web &amp; Mobile Apps
 slug:
 ---
-<p><i class="fa fa-paper-plane fa-2x"></i>&nbsp;Web Development in London &#124; Website Optimization Services</p>
+<p>Web Development in London &#124; Website Optimization Services</p>
 <form role="form" id="contactForm" method="POST">
 <div class="form-group">
     <input type="text" name="name" placeholder="Your Name">
