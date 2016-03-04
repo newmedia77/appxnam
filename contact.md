@@ -2,9 +2,9 @@
 layout: page
 title: Contact
 subtitle: We Build Great Web &amp; Mobile Apps
-slug: 
+slug:
 ---
-<p>Web Development in London &#124; Website Optimization Services</p>
+<p><i class="fa fa-mail fa-stack-2x"></i>Web Development in London &#124; Website Optimization Services</p>
 <form role="form" id="contactForm" method="POST">
 <div class="form-group">
     <input type="text" name="name" placeholder="Your Name">
@@ -19,5 +19,3 @@ slug:
     <input type="text" name="_gotcha" style="display:none" />
     <input type="hidden" name="_next" value="//newaspectmedia.com" />
 </form>
-
-        
