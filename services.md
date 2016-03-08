@@ -31,7 +31,7 @@ keywords: web development, web services, web design, webdesign, web application,
             <p>Our website optimization services include configuring web content, optimize delivery of media such as images and videos, CDN setup, server setup amongst other things.</p>
             <p>We offer the following services to improve page ranking&ndash;</p>
             <ul>
-                <i class="fa fa-check fa-1x"><li>Optimize web content or create new optimized web content</li></i>
+                <li><i class="fa fa-check fa-1x"></i>Optimize web content or create new optimized web content</li>
                 <li>Quality Link Building</li>
                 <li>Quality back linking is important for a website. We work on authority links which are valued by search engines. It is the quality of links that matter not the quantity.</li>
                 <li>Authority content</li>
