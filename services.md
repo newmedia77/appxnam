@@ -18,16 +18,16 @@ keywords: web development, web services, web design, webdesign, web application,
             </ul>
         </nav>
         <div class="col-sm-9">
-            <h2 id="section-1"><i class="fa fa-bars fa-1x"></i>Web Development Services</h2>
+            <h2 id="section-1"><i class="fa fa-code fa-1x"></i>&nbsp;Web Development Services</h2>
             <p>We develop web applications that engage visitors, enhance user experience and capture valuable information to assist business better understand their customers.  </p>
             <hr>
-            <h2 id="section-2"><i class="fa fa-mobile fa-1x"></i>Mobile Development Services</h2>
+            <h2 id="section-2"><i class="fa fa-mobile fa-1x"></i>&nbsp;Mobile Development Services</h2>
             <p>Our development team specialises in mobile first design and development of web applications. We create IOS, Android and cross platform applicatons.</p>
             <hr>
-            <h2 id="section-3"><i class="fa fa-cart-plus fa-1x"></i>eCommerce Development Services</h2>
+            <h2 id="section-3"><i class="fa fa-cart-plus fa-1x">&nbsp;eCommerce Development Services</h2>
             <p>We buid eCommerce solutions focused on Magento, Drupal, Shopify and Wordpress. We also specialise in developing custom plugins and widgets for these platforms.</p>
             <hr>
-            <h2 id="section-4"><i class="fa fa-line-chart fa-1x"></i>Website Optimization &amp; SEO Services</h2>
+            <h2 id="section-4"><i class="fa fa-line-chart fa-1x"></i>&nbsp;Website Optimization &amp; SEO Services</h2>
             <p>Our website optimization services include configuring web content, optimize delivery of media such as images and videos, CDN setup, server setup amongst other things.</p>
             <p>We offer the following services to improve page ranking&ndash;</p>
             <ul>
@@ -45,7 +45,7 @@ keywords: web development, web services, web design, webdesign, web application,
 
             <p>SEO is an&nbsp;ongoing processes. Therefore, to stay ahead of the game we offer follow-up optimization packages which insure that you stay ahead of your competition.&nbsp;These packages start from as low as &nbsp;&pound;50* per month.&nbsp;</p>
             <hr>
-            <h2 id="section-5"><i class="fa fa-wrench fa-1x"></i>Website Support Services</h2>
+            <h2 id="section-5"><i class="fa fa-wrench fa-1x"></i>&nbsp;Website Support Services</h2>
             <p>We provide website maintenance and support solutions such as content update, website tweaks, security updates and website backup. You can choose from hourly or monthly packages to suit your business needs. Here are some of the website maintenance services offered &ndash;</p>
 
             <ul>
