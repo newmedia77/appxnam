@@ -30,7 +30,7 @@ navbar-links:
   Home: ""
   Services: "services"
   Contact: "contact"
-  test: "test-services"
+  
 
 # --- Footer options --- #
 
