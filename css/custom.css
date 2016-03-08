@@ -59,3 +59,9 @@ aside.clients {
 .posts-list {
   padding: 20px;
 }
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+  background-color: #444444;
+}
+.nav-pills>li>a {
+  background-color: #FFA500;
+}
