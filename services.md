@@ -31,11 +31,11 @@ keywords: web development, web services, web design, webdesign, web application,
             <p>Our website optimization services include configuring web content, optimize delivery of media such as images and videos, CDN setup, server setup amongst other things.</p>
             <p>We offer the following services to improve page ranking&ndash;</p>
             <ul>
-                <li><i class="fa fa-check fa-1x"></i>Optimize web content or create new optimized web content</li>
-                <li>Quality Link Building</li>
-                <li>Quality back linking is important for a website. We work on authority links which are valued by search engines. It is the quality of links that matter not the quantity.</li>
-                <li>Authority content</li>
-                <li>Content in your website is important that is not only of high quality, backed by authority and which relates to your website intent. We strive to keep the content fresh and organic. Search engines can&rsquo;t get enough of it!</li>
+                <li><i class="fa fa-check fa-1x"></i>&nbsp;Optimize web content or create new optimized web content</li>
+                <li><i class="fa fa-check fa-1x"></i>&nbsp;Quality Link Building</li>
+                <li><i class="fa fa-check fa-1x"></i>&nbsp;Quality back linking is important for a website. We work on authority links which are valued by search engines. It is the quality of links that matter not the quantity.</li>
+                <li><i class="fa fa-check fa-1x"></i>&nbsp;Authority content</li>
+                <li><i class="fa fa-check fa-1x"></i>&nbsp;Content in your website is important that is not only of high quality, backed by authority and which relates to your website intent. We strive to keep the content fresh and organic. Search engines can&rsquo;t get enough of it!</li>
             </ul>
             <h2><i class="fa fa-dot-circle-o fa-1x"></i>&nbsp;Pay Per Click (PPC)</h2>
 
@@ -49,17 +49,17 @@ keywords: web development, web services, web design, webdesign, web application,
             <p>We provide website maintenance and support solutions such as content update, website tweaks, security updates and website backup. You can choose from hourly or monthly packages to suit your business needs. Here are some of the website maintenance services offered &ndash;</p>
 
             <ul>
-                <li>Website maintenance and regular updates,</li>
-                <li>Content management (content provided by client),</li>
-                <li>Blog update (unique articles and features at additional cost)</li>
-                <li>Backup and restore of website,</li>
-                <li>Website recovery,</li>
-                <li>Malware removal,</li>
-                <li>Fix broken links,</li>
-                <li>Update or amend content of the website,</li>
-                <li>Social Media Updates (does not include fan page creation or other social profiles creation),</li>
-                <li>Adding images and videos (provided by the customer) to website,</li>
-                <li>Adding products to an e-commerce website.</li>
+                <li><i class="fa fa-check fa-1x"></i>&nbsp;Website maintenance and regular updates,</li>
+                <li><i class="fa fa-check fa-1x"></i>&nbsp;Content management (content provided by client),</li>
+                <li><i class="fa fa-check fa-1x"></i>&nbsp;Blog update (unique articles and features at additional cost)</li>
+                <li><i class="fa fa-check fa-1x"></i>&nbsp;Backup and restore of website,</li>
+                <li><i class="fa fa-check fa-1x"></i>&nbsp;Website recovery,</li>
+                <li><i class="fa fa-check fa-1x"></i>&nbsp;Malware removal,</li>
+                <li><i class="fa fa-check fa-1x"></i>&nbsp;Fix broken links,</li>
+                <li><i class="fa fa-check fa-1x"></i>&nbsp;Update or amend content of the website,</li>
+                <li><i class="fa fa-check fa-1x"></i>&nbsp;Social Media Updates (does not include fan page creation or other social profiles creation),</li>
+                <li><i class="fa fa-check fa-1x"></i>&nbsp;Adding images and videos (provided by the customer) to website,</li>
+                <li><i class="fa fa-check fa-1x"></i>&nbsp;Adding products to an e-commerce website.</li>
             </ul>
 
             <p>Packages start from as low as £50 per hour of service provided. </p>

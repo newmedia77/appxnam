@@ -65,3 +65,6 @@ aside.clients {
 .nav-pills>li>a {
   background-color: #FFEBB2;
 }
+li {
+  list-style-type: none;
+}
