@@ -24,7 +24,7 @@ keywords: web development, web services, web design, webdesign, web application,
             <h2 id="section-2"><i class="fa fa-mobile fa-1x"></i>&nbsp;Mobile Development Services</h2>
             <p>Our development team specialises in mobile first design and development of web applications. We create IOS, Android and cross platform applicatons.</p>
             <hr>
-            <h2 id="section-3"><i class="fa fa-cart-plus fa-1x">&nbsp;eCommerce Development Services</h2>
+            <h2 id="section-3"><i class="fa fa-cart-plus fa-1x"></li>&nbsp;eCommerce Development Services</h2>
             <p>We buid eCommerce solutions focused on Magento, Drupal, Shopify and Wordpress. We also specialise in developing custom plugins and widgets for these platforms.</p>
             <hr>
             <h2 id="section-4"><i class="fa fa-line-chart fa-1x"></i>&nbsp;Website Optimization &amp; SEO Services</h2>
