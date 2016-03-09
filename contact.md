@@ -8,7 +8,17 @@ slug:
 <form role="form" id="contactForm" method="POST">
 
 <div class="row">
-    <div class="col-sm-4">London <br />020 8776 1808</div>
+    <div class="col-sm-4">Please contact us via 020 8776 1808 or write to us for:
+    	<ul>
+    	<li><i class="fa fa-check fa-1x"></i>&nbsp;Web Application Development</li>
+    	<li><i class="fa fa-check fa-1x"></i>&nbsp;Mobile Application Development</li>
+    	<li><i class="fa fa-check fa-1x"></i>&nbsp;eCommerce Development</li>
+    	<li><i class="fa fa-check fa-1x"></i>&nbsp;Wordpress Development</li>
+    	<li><i class="fa fa-check fa-1x"></i>&nbsp;Magento Development</li>
+    	<li><i class="fa fa-check fa-1x"></i>&nbsp;Drupal Development</li>
+    	<li><i class="fa fa-check fa-1x"></i>&nbsp;Shopify Development</li>
+    </ul>
+    </div>
     <div class="col-sm-8"><div class="form-group">
     <input type="text" name="name" placeholder="Your Name">
 </div>
