@@ -21,20 +21,8 @@ slug:
     <button type="submit" value="Send" class = "btn btn-default">Submit</button>
     <input type="text" name="_gotcha" style="display:none" />
     <input type="hidden" name="_next" value="//newaspectmedia.com" />
-</form></div>
-  </div>
+</form>
+</div>
 </div>
 
-<div class="form-group">
-    <input type="text" name="name" placeholder="Your Name">
-</div>
-<div class="form-group">
-    <input type="email" name="_replyto" placeholder="Your Email">
-</div>
-<div class="form-group">
-    <textarea name="message" placeholder="Your message" placeholder="Your Message"></textarea>
-</div>
-    <button type="submit" value="Send" class = "btn btn-default">Submit</button>
-    <input type="text" name="_gotcha" style="display:none" />
-    <input type="hidden" name="_next" value="//newaspectmedia.com" />
-</form>
+
