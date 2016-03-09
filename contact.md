@@ -5,7 +5,7 @@ subtitle: We Build Great Web &amp; Mobile Apps
 slug:
 ---
 <div class="row">
-    <div class="col-sm-4">Please contact us via 020 8776 1808 or write to us for:
+    <div class="col-sm-4"><div class="contact-details">Please contact us via 020 8776 1808 or write to us for:
     	<ul>
     	<li><i class="fa fa-check fa-1x"></i>&nbsp;Web Application Development</li>
     	<li><i class="fa fa-check fa-1x"></i>&nbsp;Mobile Application Development</li>
@@ -15,6 +15,7 @@ slug:
     	<li><i class="fa fa-check fa-1x"></i>&nbsp;Drupal Development</li>
     	<li><i class="fa fa-check fa-1x"></i>&nbsp;Shopify Development</li>
     </ul>
+    </div>
     </div>
     <div class="col-sm-8"><div class="form-group">
     	<form role="form" id="contactForm" method="POST">
