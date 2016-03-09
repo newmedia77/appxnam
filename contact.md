@@ -4,9 +4,6 @@ title: Contact
 subtitle: We Build Great Web &amp; Mobile Apps
 slug:
 ---
-<p>Web Development in London &#124; Website Optimization Services</p>
-<form role="form" id="contactForm" method="POST">
-
 <div class="row">
     <div class="col-sm-4">Please contact us via 020 8776 1808 or write to us for:
     	<ul>
@@ -20,6 +17,7 @@ slug:
     </ul>
     </div>
     <div class="col-sm-8"><div class="form-group">
+    	<form role="form" id="contactForm" method="POST">
     <input type="text" name="name" placeholder="Your Name">
 </div>
 <div class="form-group">
