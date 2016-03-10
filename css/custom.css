@@ -72,6 +72,10 @@ li {
 
 /*Services*/
 
+.creative-section {
+    padding: 0 0 100px;
+}
+
 .service-tab{
     position: relative;
 }
@@ -100,4 +104,75 @@ li {
 .service-tab .nav-tabs>li.active>a:hover{
     border:0;
     background-color: #ffffff;
+}
+
+.nav-tabs.nav-justified>li>a{
+    border:0;
+    border-radius: 0;
+}
+
+.nav-tabs.nav-justified>.active>a, 
+.nav-tabs.nav-justified>.active>a:focus, 
+.nav-tabs.nav-justified>.active>a:hover{
+    border:0;
+}
+
+.service-tab li:first-child {
+    border-left: 1px solid #b9b9b9;
+}
+
+.service-tab li i:before{
+    font-size: 30px;
+    color:#202020;
+}
+
+.service-tab li.active i:before,
+.service-tab li:hover i:before{
+    color:#ff2a40;
+}
+
+.service-tab li span{
+    display:block;
+    font-size: 18px;
+    color:#202020;
+}
+
+.service-tab li.active:after,
+.service-tab li:hover:after {
+    content:"";
+    border-bottom:10px solid #ff2a40;
+    position: absolute;
+    bottom:0;
+    left:0;
+    width:100%;
+}
+
+.service-tab .tab-content{
+    margin-top:50px;
+}
+
+.creative-section h2 {
+    text-transform: capitalize;
+    font-weight: 700;
+    margin-bottom: 45px;
+    position: relative;
+}
+.creative-section h2::after {
+    content: "";
+    background-color: #ff2a40;
+    width: 100px;
+    height: 2px;
+    position: absolute;
+    left: 0;
+    bottom: -16px;
+}
+.creative-section .btn {
+    margin-top: 42px;
+}
+
+.mac-screenshot {
+    padding-top: 60px;
+}
+.mac-screenshot img{
+    width: inherit;
 }
