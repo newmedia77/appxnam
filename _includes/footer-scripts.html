@@ -63,33 +63,4 @@
   {% endfor %}
 {% endif %}
 
-{% if layout.custom-js %}
-  {% for js in layout.custom-js %}
-    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
-    {% if js contains 'jquery' %}
-      <script>
-        if (typeof jQuery == 'undefined') {
-          document.write('<script src="{{ js | prepend: site.baseurl | replace: "//", "/" }}"></scr' + 'ipt>');
-        }
-      </script>
-    {% else %}
-  <script src="{{ js | prepend: site.baseurl | replace: '//', '/' }}"></script>
-    {% endif %}
-  {% endfor %}
-{% endif %}
-{% if page.custom-js %}
-  {% for js in page.custom-js %}
-    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
-    {% if js contains 'jquery' %}
-      <script>
-        if (typeof jQuery == 'undefined') {
-          document.write('<script src="{{ js | prepend: site.baseurl | replace: "//", "/" }}"></scr' + 'ipt>');
-        }
-      </script>
-    {% else %}
-  <script src="{{ js | prepend: site.baseurl | replace: '//', '/' }}"></script>
-    {% endif %}
-  {% endfor %}
-{% endif %}
-
 {% include google_analytics.html %}
