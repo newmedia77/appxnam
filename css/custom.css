@@ -493,3 +493,84 @@ li {
   }
 
 }
+
+/* =-=-=-=-=-=-= Service Section =-=-=-=-=-=-= */
+
+.services-section {}
+.sbox-gutter {
+    border-right: 1px solid #dedede;
+    border-bottom: 1px solid #dedede;
+}
+.sbox-gutter:nth-child(3),
+.sbox-gutter:nth-child(6) {
+    border-right: 0;
+}
+.sbox-gutter:nth-child(4),
+.sbox-gutter:nth-child(5),
+.sbox-gutter:nth-child(6) {
+    border-bottom: 0;
+}
+.sbox-gutter:hover {
+    background-color: #ff2a40;
+}
+
+.sbox-gutter,
+.sbox-gutter i::before,
+.sbox-gutter h3,
+.sbox-gutter p {
+    -webkit-transition: all 0.4s ease-in-out;
+    -moz-transition: all 0.4s ease-in-out;
+    -ms-transition: all 0.4s ease-in-out;
+    -o-transition: all 0.4s ease-in-out;
+}
+
+.sbox-gutter:hover i::before,
+.sbox-gutter:hover h3,
+.sbox-gutter:hover p {
+    color: #fff;
+}
+
+.service-box {
+    padding: 30px 15px;
+}
+.service-box i::before { 
+    font-size: 40px;
+    margin-bottom: 20px;
+    color: #ff2a40;
+}
+.service-box h3 { 
+    color: #ff2a40;
+    font-weight: 700;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+.service-box p { 
+    line-height: 22px;
+}
+
+
+/* =-=-=-=-=-=-= Responsive preview section =-=-=-=-=-=-= */
+
+.responsive-preview {}
+.responsive-preview h2{
+    font-size: 30px;
+    line-height: 45px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 38px;
+}
+.responsive-preview h2 span{
+    display: block;
+    font-size: 45px;
+    color: #ff2a40;
+}
+
+.responsive-preview p{
+    font-size: 16px;
+    line-height: 35px;
+    margin-bottom: 35px;
+}
+
+.responsive-preview img {
+    width: initial;
+}
