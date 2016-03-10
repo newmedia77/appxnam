@@ -35,12 +35,12 @@
 
 
 {% if page.additional-js %}
-  {% for js in page.ext-js %}
+  {% for js in page.additional-js %}
   <script src="{{ js }}"></script>
   {% endfor %}
 {% endif %}
 {% if layout.additional-js %}
-  {% for js in layout.ext-js %}
+  {% for js in layout.additional-js %}
   <script src="{{ js }}"></script>
   {% endfor %}
 {% endif %}
