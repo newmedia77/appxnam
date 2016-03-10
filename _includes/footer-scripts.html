@@ -63,8 +63,8 @@
   {% endfor %}
 {% endif %}
 
-{% if layout.additional-js %}
-  {% for js in layout.additional-js %}
+{% if layout.custom-js %}
+  {% for js in layout.custom-js %}
     <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
     {% if js contains 'jquery' %}
       <script>
@@ -77,8 +77,8 @@
     {% endif %}
   {% endfor %}
 {% endif %}
-{% if page.additional-js %}
-  {% for js in page.additional-js %}
+{% if page.custom-js %}
+  {% for js in page.custom-js %}
     <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
     {% if js contains 'jquery' %}
       <script>
