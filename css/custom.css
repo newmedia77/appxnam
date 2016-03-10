@@ -69,3 +69,35 @@ aside.clients {
 li {
   list-style-type: none;
 }
+
+/*Services*/
+
+.service-tab{
+    position: relative;
+}
+
+.service-tab .nav-tabs{
+    border-bottom: 0;
+}
+
+.service-tab li {
+    position: relative;
+    text-align: center;
+    border-right: 1px solid #b9b9b9;
+    padding:0;
+}
+
+.service-tab li > a{
+    padding:40px;
+    background-color: #f5f5f5;
+    color:#000000;
+    border:0;
+    width: 100%;
+}
+
+.service-tab .nav-tabs>li.active>a, 
+.service-tab .nav-tabs>li.active>a:focus, 
+.service-tab .nav-tabs>li.active>a:hover{
+    border:0;
+    background-color: #ffffff;
+}
