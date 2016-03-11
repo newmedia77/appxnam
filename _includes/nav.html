@@ -18,20 +18,18 @@
         <li>
           {% assign internal = true %}
           {% if before != after %}
-           <div class="page-scroll">
             {% if before == "http" or before == "https" %}
               {% assign internal = false %}
             {% endif %}
-          </div>
           {% endif %}
 
         {% if internal %}
-          {% capture linkurl %}{{ site.baseurl }}/{{ link[1] }}{% endcapture %}
+          {% capture linkurl %}{{ site.baseurl }}/<div class="page-scroll">{{ link[1] }}</div>{% endcapture %}
         {% else %}
-          {% capture linkurl %}{{ link[1] }}{% endcapture %}
+          {% capture linkurl %}<div class="page-scroll">{{ link[1] }}</div>{% endcapture %}
         {% endif %}
 
-	      <a href="{{ linkurl }}">{{ link[0] }}</a>
+	      <a href="{{ linkurl }}"><div class="page-scroll">{{ link[0] }}</div></a>
 	      </li>
 	    {% endfor %}
       </ul>
