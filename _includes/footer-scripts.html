@@ -36,15 +36,24 @@
 
 {% if page.common-js %}
   {% for js in common.ext-js %}
-  <script src="{{ js }}"></script>
+  <script src="{{ js | prepend: site.baseurl | replace: '//', '/' }}"></script>
   {% endfor %}
 {% endif %}
 {% if layout.common-js %}
   {% for js in layout.common-js %}
-  <script src="{{ js }}"></script>
+  <script src="{{ js | prepend: site.baseurl | replace: '//', '/' }}"></script>
   {% endfor %}
 {% endif %}
 
-
+{% if page.custom-js %}
+  {% for js in custom.ext-js %}
+  <script src="{{ js | prepend: site.baseurl | replace: '//', '/' }}"></script>
+  {% endfor %}
+{% endif %}
+{% if layout.custom-js %}
+  {% for js in layout.custom-js %}
+  <script src="{{ js | prepend: site.baseurl | replace: '//', '/' }}"></script>
+  {% endfor %}
+{% endif %}
 
 {% include google_analytics.html %}
