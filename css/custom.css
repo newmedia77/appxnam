@@ -159,7 +159,7 @@ li {
 }
 .creative-section h2::after {
     content: "";
-    background-color: #ff2a40;
+    background-color: #FFA500;
     width: 100px;
     height: 2px;
     position: absolute;
