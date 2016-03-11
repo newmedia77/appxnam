@@ -24,12 +24,12 @@
           {% endif %}
 
         {% if internal %}
-          {% capture linkurl %}{{ site.baseurl }}/{{ link[1] }}{% endcapture %}
+          {% capture linkurl %}<div class="page-scroll">{{ site.baseurl }}/{{ link[1] }}</div>{% endcapture %}
         {% else %}
           {% capture linkurl %}{{ link[1] }}{% endcapture %}
         {% endif %}
 
-	      <a href="{{ linkurl }}"><div class="page-scroll">{{ link[0] }}</div></a>
+	      <a href="{{ linkurl }}">{{ link[0] }}</a>
 	      </li>
 	    {% endfor %}
       </ul>
