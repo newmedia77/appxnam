@@ -128,7 +128,7 @@ li {
 
 .service-tab li.active i:before,
 .service-tab li:hover i:before{
-    color:#ff2a40;
+    color:#FFA500;
 }
 
 .service-tab li span{
