@@ -45,15 +45,6 @@
   {% endfor %}
 {% endif %}
 
-{% if page.custom-js %}
-  {% for js in custom.ext-js %}
-  <script src="{{ js }}"></script>
-  {% endfor %}
-{% endif %}
-{% if layout.custom-js %}
-  {% for js in layout.custom-js %}
-  <script src="{{ js }}"></script>
-  {% endfor %}
-{% endif %}
+
 
 {% include google_analytics.html %}
