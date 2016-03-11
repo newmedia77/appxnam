@@ -11,7 +11,7 @@
     </div>
 
     <div class="collapse navbar-collapse page-scroll" id="main-navbar">
-      <ul class="nav navbar-nav navbar-right">
+      <ul class="nav navbar-nav navbar-right page-scroll">
 	    {% for link in site.navbar-links %}
 	      {% capture before %}{{ link[1] | split: "://" | first }}{% endcapture %}
 	      {% capture after %}{{ link[1] | split: "://" | last }}{% endcapture %}
