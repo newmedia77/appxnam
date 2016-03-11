@@ -10,7 +10,7 @@
       <a class="navbar-brand" href="{{ site.url }}">{{ site.title }}</a>
     </div>
 
-    <div class="collapse navbar-collapse" id="main-navbar">
+    <div class="collapse navbar-collapse page-scroll" id="main-navbar">
       <ul class="nav navbar-nav navbar-right">
 	    {% for link in site.navbar-links %}
 	      {% capture before %}{{ link[1] | split: "://" | first }}{% endcapture %}
@@ -25,7 +25,6 @@
 
         {% if internal %}
           {% capture linkurl %}{{ site.baseurl }}/{{ link[1] }}{% endcapture %}
-          <div class="page-scrolls">
         {% else %}
           {% capture linkurl %}{{ link[1] }}{% endcapture %}
         {% endif %}
