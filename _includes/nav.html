@@ -10,17 +10,19 @@
       <a class="navbar-brand" href="{{ site.url }}">{{ site.title }}</a>
     </div>
 
-    <div class="collapse navbar-collapse page-scroll" id="main-navbar">
-      <ul class="nav navbar-nav navbar-right page-scroll">
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
 	    {% for link in site.navbar-links %}
 	      {% capture before %}{{ link[1] | split: "://" | first }}{% endcapture %}
 	      {% capture after %}{{ link[1] | split: "://" | last }}{% endcapture %}
         <li>
           {% assign internal = true %}
           {% if before != after %}
+           <div class="page-scroll">
             {% if before == "http" or before == "https" %}
               {% assign internal = false %}
             {% endif %}
+          </div>
           {% endif %}
 
         {% if internal %}
