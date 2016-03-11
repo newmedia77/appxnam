@@ -13,7 +13,7 @@
     <div class="collapse navbar-collapse" id="main-navbar">
       <ul class="nav navbar-nav navbar-right">
 	    {% for link in site.navbar-links %}
-	      {% capture before %}{{ link[1] | split: "://" | first }}{% endcapture %}
+	      {% capture before %}{{ <div class="page-scroll">link[1]</div> | split: "://" | first }}{% endcapture %}
 	      {% capture after %}{{ link[1] | split: "://" | last }}{% endcapture %}
         <li>
           {% assign internal = true %}
@@ -24,7 +24,7 @@
           {% endif %}
 
         {% if internal %}
-          {% capture linkurl %}<div class="page-scroll">{{ site.baseurl }}/{{ link[1] }}</div>{% endcapture %}
+          {% capture linkurl %}{{ site.baseurl }}/{{ link[1] }}{% endcapture %}
         {% else %}
           {% capture linkurl %}{{ link[1] }}{% endcapture %}
         {% endif %}
