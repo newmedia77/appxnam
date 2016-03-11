@@ -140,7 +140,7 @@ li {
 .service-tab li.active:after,
 .service-tab li:hover:after {
     content:"";
-    border-bottom:10px solid #ff2a40;
+    border-bottom:3px solid #FFA500;
     position: absolute;
     bottom:0;
     left:0;
