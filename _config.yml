@@ -21,7 +21,7 @@ avatar: "/img/appx360-logo.png"
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  Services: "services"
+  Services: "#services"
   Contact: "contact"
   
 
