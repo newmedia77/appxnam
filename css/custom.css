@@ -922,3 +922,9 @@ li {
     margin-right: 0px;
     margin-left: 0px;
 }
+.footer-section {
+    padding: 135px 0;
+    background-color: #202020;
+    color: #fff;
+    position: relative;
+}
