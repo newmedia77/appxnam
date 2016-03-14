@@ -918,6 +918,7 @@ li {
 }
 .backToTop i:hover{
     background: #444444;
+    color: #ffffff;
 }
 /* footer container */
 .container.appx-footer{
