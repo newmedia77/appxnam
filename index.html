@@ -571,7 +571,7 @@ subtitle: Hire Web Developer &amp; SEO Specialist in London
 
                 <div class="row margin-top-50">
                     <div class="col-xs-12 text-center">
-                        <form role="form" id="contactForm" method="POST">
+                        <form name="contact-form" id="contactForm" action="sendemail.php" method="POST">
                             <div class="row">
                                 <div class="col-md-4">
                                     <div class="form-group">
@@ -598,11 +598,8 @@ subtitle: Hire Web Developer &amp; SEO Specialist in London
                               <textarea name="message" class="form-control" id="message" rows="7" placeholder="Your Message"></textarea>
                             </div>
 
-                            <button type="submit" value="Send" class = "tn btn-primary btn-lg">Submit</button>
-                             <input type="text" name="_gotcha" style="display:none" />
-                            <input type="hidden" name="_next" value="//newaspectmedia.com" />
+                            <button type="submit" name="submit" class="btn btn-primary btn-lg">Submit</button>
                         </form>
-
                     </div><!-- /.col-xs-12 -->
                 </div><!-- /.row -->
 
