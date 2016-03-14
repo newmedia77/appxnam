@@ -904,7 +904,7 @@ li {
     color: #444;
     width: 100px;
     height: 100px;
-    position: relative;
+    position: absolute;
     top: -100px;
     left: 50%;
     margin-left: -50px;
@@ -923,8 +923,6 @@ li {
     margin-left: 0px;
 }
 .footer-section {
-    padding: 135px 0;
-    background-color: #202020;
     color: #fff;
     position: relative;
 }
