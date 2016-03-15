@@ -546,29 +546,29 @@ li {
 }
 
 
-/* =-=-=-=-=-=-= Responsive preview section =-=-=-=-=-=-= */
+/* =-=-=-=-=-=-= Website optimization section =-=-=-=-=-=-= */
 
-.responsive-preview {}
-.responsive-preview h2{
+.website-optimization {}
+.website-optimization h2{
     font-size: 30px;
     line-height: 45px;
     font-weight: 700;
     text-transform: uppercase;
     margin-bottom: 38px;
 }
-.responsive-preview h2 span{
+.website-optimization h2 span{
     display: block;
     font-size: 45px;
     color: #FFA500;
 }
 
-.responsive-preview p{
+.website-optimization p{
     font-size: 16px;
     line-height: 35px;
     margin-bottom: 35px;
 }
 
-.responsive-preview img {
+.website-optimization img {
     width: initial;
 }
 /* =-=-=-=-=-=-= Process Section =-=-=-=-=-=-= */
