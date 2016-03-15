@@ -613,6 +613,27 @@ ul#portfolio-grid>li{
 ul#portfolio-grid.five-column>li{
     width: 20%;
 }
+@media (max-width: 1199px) {
+    ul#portfolio-grid.five-column>li{
+        width: 25%;
+    }
+}
+
+@media (max-width: 991px) {
+    ul#portfolio-grid.five-column>li{
+        width: 33.33%;
+    }
+}
+@media (max-width: 767px) {
+    ul#portfolio-grid.five-column>li{
+        width: 50%;
+    } 
+}
+@media (max-width: 480px) {
+    ul#portfolio-grid.five-column>li{
+        width: 100%;
+    } 
+}
 
 .portfolio-container {
     padding-top: 55px;
