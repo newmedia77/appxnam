@@ -1,3 +1,187 @@
+/* =-=-=-=-=-=-= Slider Section =-=-=-=-=-=-= */
+
+#tt-home-carousel {
+    overflow: hidden;
+    position: relative;
+}
+
+#tt-home-carousel img{
+    width: 100%;
+    background-size: cover;
+}
+
+.carousel-fade .carousel-inner .item {
+    max-height: 700px;
+    opacity:.8;
+    -webkit-transition-property:opacity;
+    -moz-transition-property:opacity;
+    -o-transition-property:opacity;
+    transition-property:opacity
+
+}
+.carousel-fade .carousel-inner .active { 
+    opacity: 1 
+}
+.carousel-fade .carousel-inner .active.left,
+.carousel-fade .carousel-inner .active.right {
+    left: 0;
+    opacity: 0;
+    z-index: 1;
+}
+.carousel-fade .carousel-inner .next.left,
+.carousel-fade .carousel-inner .prev.right { 
+    opacity: 1 
+}
+
+.carousel-fade .carousel-inner .item:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0,0,0,.7);
+}
+
+.carousel-fade .carousel-control {
+    z-index: 20 
+}
+
+
+/* Caption style
+/* ------------------------------ */
+
+#tt-home-carousel .carousel-caption {
+    position: absolute;
+    top: 50%;
+    margin-top: -165px;
+    left: 0;
+    right: 0;
+    text-align: center;
+    text-transform: uppercase;
+    z-index: 15;
+    color: #fff;
+    bottom: inherit;
+}
+
+
+#tt-home-carousel .carousel-caption h1{
+    color:#FFFFFF;
+    font-size: 75px;
+    line-height: 80px;
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: -5px;
+    margin-bottom: 40px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#tt-home-carousel .carousel-caption h1 span{
+    font-weight: 900;
+}
+
+#tt-home-carousel .carousel-caption p{
+    color:#FFFFFF;
+    font-size: 25px;
+    text-transform: uppercase;
+    margin-bottom: 70px;
+}
+
+#tt-home-carousel .carousel-caption .btn {
+  font-size: 20px;
+  line-height: 18px;
+  font-weight: 300;
+  color: #fff;
+  background-color: transparent;
+  border-color: #fff;
+  border-radius: 30px;
+  padding: 20px 58px;
+}
+
+#tt-home-carousel .carousel-caption .btn:hover {
+    background: #fff;
+    border-color: transparent;
+    color: #ff2a40;
+}
+
+
+/* Next and previous button
+/* ------------------------------ */
+#tt-home-carousel > .item-prev{
+    position: absolute;
+    left:40px;
+    top:50%;
+    margin-top: -25px;
+    z-index: 100;
+    opacity: 0;
+    -webkit-transition:all 400ms;
+    -moz-transition:all 400ms;
+    -o-transition:all 400ms;
+    transition:all 400ms;
+}
+
+#tt-home-carousel > .item-next{
+    position: absolute;
+    right:40px;
+    top:50%;
+    margin-top: -25px;
+    z-index: 100;
+    opacity: 0;
+    -webkit-transition:all 400ms;
+    -moz-transition:all 400ms;
+    -o-transition:all 400ms;
+    transition:all 400ms;
+}
+
+#tt-home-carousel:hover .item-prev,
+#tt-home-carousel:hover .item-next{
+    opacity: 1;
+}
+
+#tt-home-carousel > .item-prev i,
+#tt-home-carousel > .item-next i{
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    font-size: 40px;
+    border-radius: 50%;
+    color:#000000;
+    text-align: center;
+    background-color: #DDDDDD;
+}
+
+#tt-home-carousel > .item-prev i:hover,
+#tt-home-carousel > .item-next i:hover{
+    background-color: #ff2a40;
+}
+
+
+/* Text animation delay
+/* ------------------------------ */
+.delay-1 {
+    -webkit-animation-delay: 300ms;
+    -moz-animation-delay: 300ms;
+    animation-delay: 300ms;
+}
+
+.delay-2 {
+    -webkit-animation-delay: 600ms;
+    -moz-animation-delay: 600ms;
+    animation-delay: 600ms;
+}
+
+.delay-3 {
+    -webkit-animation-delay: 1200ms;
+    -moz-animation-delay: 1200ms;
+    animation-delay: 1200ms;
+}
+
+.delay-4 {
+    -webkit-animation-delay: 1500ms;
+    -moz-animation-delay: 1500ms;
+    animation-delay: 1500ms;
+}
+
 
 /* =-=-=-=-=-=-= Creative Section =-=-=-=-=-=-= */
 
