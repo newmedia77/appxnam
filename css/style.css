@@ -101,7 +101,7 @@
 #tt-home-carousel .carousel-caption .btn:hover {
     background: #fff;
     border-color: transparent;
-    color: #ff2a40;
+    color: #ffa500;
 }
 
 
@@ -152,7 +152,7 @@
 
 #tt-home-carousel > .item-prev i:hover,
 #tt-home-carousel > .item-next i:hover{
-    background-color: #ff2a40;
+    background-color: #ffa500;
 }
 
 
@@ -241,7 +241,7 @@
 
 .service-tab li.active i:before,
 .service-tab li:hover i:before{
-    color:#ff2a40;
+    color:#ffa500;
 }
 
 .service-tab li span{
@@ -253,7 +253,7 @@
 .service-tab li.active:after,
 .service-tab li:hover:after {
     content:"";
-    border-bottom:10px solid #ff2a40;
+    border-bottom:10px solid #ffa500;
     position: absolute;
     bottom:0;
     left:0;
@@ -272,7 +272,7 @@
 }
 .creative-section h2::after {
     content: "";
-    background-color: #ff2a40;
+    background-color: #ffa500;
     width: 100px;
     height: 2px;
     position: absolute;
@@ -343,7 +343,7 @@ ul.project-meta li a{
     color: #fff;
 }
 ul.project-meta li a:hover{
-    color: #ff2a40;
+    color: #ffa500;
 }
 
 .full-project {
@@ -354,7 +354,7 @@ ul.project-meta li a:hover{
     padding: 16px 30px;
     line-height: 18px;
     text-transform: capitalize;
-    background: #ff2a40;
+    background: #ffa500;
 }
 .full-project:hover {
     background: #C02232;
@@ -491,8 +491,8 @@ ul.project-meta{
     text-align: center;
     width: 50px;
     height: 50px;
-    color: #ff2a40;
-    border: 1px solid #ff2a40;
+    color: #ffa500;
+    border: 1px solid #ffa500;
     border-radius: 4px;
     -webkit-transition: all 0.4s ease-in-out;
     -moz-transition: all 0.4s ease-in-out;
@@ -501,7 +501,7 @@ ul.project-meta{
     transition: all 0.4s ease-in-out;
 }
 .feature-section .media a i:hover::before {
-    background-color: #ff2a40;
+    background-color: #ffa500;
     color: #fff;
     border: 1px solid transparent;
 }
@@ -521,7 +521,7 @@ ul.project-meta{
 }
 
 .feature-section .media-heading a:hover{
-    color: #ff2a40;
+    color: #ffa500;
 }
 
 .feature-section .media-body p{
@@ -553,7 +553,7 @@ ul.project-meta{
     margin-bottom: 30px;
 }
 .cta-one-section h2 span {
-    color: #ff2a40;
+    color: #ffa500;
 }
 .cta-one-section .btn {
     margin-top: 30px;
@@ -601,7 +601,7 @@ ul.project-meta{
     margin-bottom: 14px;
 }
 .progress-bar {
-    background-color: #ff2a40;
+    background-color: #ffa500;
     box-shadow: none;
     border-radius: 10px;
 }
@@ -649,7 +649,7 @@ ul.project-meta{
     padding: 17px 15px;
     border-top-left-radius: 4px;
     border-top-right-radius: 4px;
-    background-color: #FF2A40;
+    background-color: #ffa500;
 }
 
 .panel-default>.panel-heading+.panel-collapse>.panel-body {
@@ -747,7 +747,7 @@ span.count-description {
   left: 0;
   bottom: 0;
   width: 100%;
-  background: #ff2a40;
+  background: #ffa500;
   color: #fff;
   padding: 16px 0;
 }
@@ -795,7 +795,7 @@ span.count-description {
     font-size: 18px;
     line-height: 35px;
     background: #fff;
-    color: #ff2a40;
+    color: #ffa500;
     text-align: center;
     border-radius: 50%;
 }
@@ -878,7 +878,7 @@ object {
 
 .cta-two-section {
     padding: 74px 0;
-    background-color: #ff2a40;
+    background-color: #ffa500;
     color: #fff;
 }
 
@@ -905,7 +905,7 @@ object {
 .cta-two-section .btn:hover {
     background-color: #fff;
     border-color: #fff;
-    color: #ff2a40;
+    color: #ffa500;
 }
 
 
@@ -927,7 +927,7 @@ object {
     border-bottom: 0;
 }
 .sbox-gutter:hover {
-    background-color: #ff2a40;
+    background-color: #ffa500;
 }
 
 .sbox-gutter,
@@ -952,10 +952,10 @@ object {
 .service-box i::before { 
     font-size: 40px;
     margin-bottom: 20px;
-    color: #ff2a40;
+    color: #444444;
 }
 .service-box h3 { 
-    color: #ff2a40;
+    color: #ffa500;
     font-weight: 700;
     text-transform: capitalize;
     margin-bottom: 20px;
@@ -978,7 +978,7 @@ object {
 .responsive-preview h2 span{
     display: block;
     font-size: 45px;
-    color: #ff2a40;
+    color: #ffa500;
 }
 
 .responsive-preview p{
@@ -1000,7 +1000,7 @@ object {
   background-size: cover;
 }
 .process-box {
-    background-color: #ff2a40;
+    background-color: #ffa500;
     color: #fff;
     padding: 30px;
     border-radius: 10px;
@@ -1034,7 +1034,7 @@ object {
     cursor: pointer;
 }
 .portfolio-container ul#filter li.active{
-    background-color: #ff2a40;
+    background-color: #ffa500;
     color: #fff;
 }
 
@@ -1132,7 +1132,7 @@ object {
 .portfolio-info .btn:hover {
     background-color: #fff;;
     border-color: #fff;
-    color: #ff2a40;
+    color: #ffa500;
 }
 
 
@@ -1179,8 +1179,8 @@ object {
 
 #quote-carousel .carousel-control:hover i,
 #quote-carousel .carousel-control:focus i {
-    color: #ff2a40;
-    border-color: #ff2a40;
+    color: #ffa500;
+    border-color: #ffa500;
 }
 #quote-carousel .carousel-control.left {
     left: 30%;
@@ -1257,7 +1257,7 @@ object {
     color: #fff;
 }
 .case-study-left {
-    background-color: #ff2a40;
+    background-color: #ffa500;
     padding: 60px 40px 60px 110px;
 }
 .case-study-right {
@@ -1283,7 +1283,7 @@ object {
     border-color: #fff;
 }
 .case-study-left .btn:hover {
-    color: #ff2a40;   
+    color: #ffa500;   
 }
 .case-study-right .btn:hover {
     color: #2c3e50;
@@ -1309,8 +1309,8 @@ object {
     font-weight: 600;
     min-width: 350px;
     border-radius: 30px;
-    background-color: #ff2a40;
-    border-color: #ff2a40;
+    background-color: #ffa500;
+    border-color: #ffa500;
 }
 .contact-section .btn:hover{
     background-color: #C02232;
@@ -1330,7 +1330,7 @@ object {
 .backToTop i{
     font-size: 70px;
     line-height: 85px;
-    background: #ff2a40;
+    background: #ffa500;
     color: #fff;
     width: 100px;
     height: 100px;
@@ -1362,7 +1362,7 @@ object {
 }
 
 .footer-logo p span{
-    color: #ff2a40;
+    color: #ffa500;
     font-weight: 600;
 }
 
@@ -1392,8 +1392,8 @@ object {
     transition: all 0.4s ease-in-out;
 }
 .social-icon ul li a i:hover{
-    color: #ff2a40;
-    border: 1px solid #ff2a40;
+    color: #ffa500;
+    border: 1px solid #ffa500;
 }
 
 
@@ -1454,7 +1454,7 @@ object {
     color: #666666;
 }
 .project-details a:hover{
-    color: #ff2a40;
+    color: #ffa500;
 }
 .client-testimonial {
     margin-top: 30px;
@@ -1462,7 +1462,7 @@ object {
 .client-testimonial h3{}
 .client-testimonial blockquote {
     font-size: 17px;
-    border-left: 5px solid #ff2a40;
+    border-left: 5px solid #ffa500;
     background: #fafafa;
     font-style: italic;
 }
