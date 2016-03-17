@@ -793,7 +793,7 @@ li {
 .portfolio-container ul#portfolio-grid li{
     float: left;
     display: block;
-    width: auto;
+    width: 20%;
     height: auto;
 }
 .portfolio-item {
