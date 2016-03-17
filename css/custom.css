@@ -278,7 +278,7 @@ li {
       border: 0;
   }
   /* === PORTFOLIO SECTION === */
-  .portfolio-container ul#grid li{
+  .portfolio-container ul#portfolio-grid li{
       width: 100%;
   }
   /*team sction*/
@@ -617,13 +617,13 @@ li {
     color: #fff;
 }
 
-.portfolio-container ul#grid {
+.portfolio-container ul#portfolio-grid {
     overflow: hidden;
 }
-.portfolio-container ul#grid li img{
+.portfolio-container ul#portfolio-grid li img{
 
 }
-.portfolio-container ul#grid li{
+.portfolio-container ul#portfolio-grid li{
     float: left;
     display: block;
     width: 20%;
