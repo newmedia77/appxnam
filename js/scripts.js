@@ -120,7 +120,7 @@ jQuery(function ($) {
     /* === Shuffle === */
     (function () {
         /* initialize shuffle plugin */
-        var $grid = $('#grid');
+        var $grid = $('#portfolio-grid');
 
         $grid.shuffle({
             itemSelector: '.portfolio-item' // the selector for the items in the grid
