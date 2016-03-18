@@ -233,7 +233,7 @@
 
 	/* === PORTFOLIO SECTION === */
 	.portfolio-container ul#grid li{
-	    width: 33%;
+	    width: 100%;
 	}
 	.portfolio-item {
 	  min-height: 180px;
