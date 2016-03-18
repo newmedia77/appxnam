@@ -886,3 +886,6 @@ li {
 .portfolio-container .btn.view-more {
     margin-top: 40px;
 }
+.img-responsive {
+  width:100%;
+}
