@@ -791,10 +791,10 @@ li {
 
 }
 .portfolio-container ul#grid li{
-   /* float: left;
+    float: left;
     display: block;
     width: auto;
-    height: auto;*/
+    height: auto;
 }
 .portfolio-item {
     min-height: 200px;
