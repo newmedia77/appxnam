@@ -41,8 +41,8 @@ jQuery(function ($) {
             e.preventDefault();
 
             // set active class
-            $('#filter li').removeClass('active');
-            $(this).addClass('active');
+           // $('#filter li').removeClass('active');
+           // $(this).addClass('active');
 
             // get group name from clicked item
             var groupName = $(this).attr('data-group');
