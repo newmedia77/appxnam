@@ -794,7 +794,7 @@ li {
     float: left;
     display: block;
     width: 30%;
-    height: auto;
+    height: 5%;
 }
 .portfolio-item {
     min-height: 200px;
