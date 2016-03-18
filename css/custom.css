@@ -788,7 +788,7 @@ li {
     overflow: hidden;
 }
 .portfolio-container ul#grid li img{
-
+  width: 100%
 }
 .portfolio-container ul#grid li{
     float: left;
