@@ -15,27 +15,6 @@ jQuery(function ($) {
 
     }());
 
-
-    /* ======= Preloader ======= */
-    (function () {
-        $('#status').fadeOut();
-        $('#preloader').delay(200).fadeOut('slow');
-    }());
-
-
-    /* ======= Search box ======= */
-    (function () {
-        $("#search-box").hide();
-            var searchIcon = $(".search-icon");
-            var searchBox = $("#search-box");
-            searchIcon.on('click', function(event) {
-            searchIcon.toggleClass("active");
-            searchBox.slideToggle();
-        });
-    }());
-
-
-
     /* === jQuery for page scrolling feature - requires jQuery Easing plugin === */
     (function () {
 	    $('a.page-scroll').on('click', function(event) {
@@ -47,75 +26,6 @@ jQuery(function ($) {
 	    });
     }());
     
-
-
-
-    /* === Sticky Menu === */
-    (function () {
-        var nav = $('.navbar');
-        var scrolled = false;
-
-        $(window).scroll(function () {
-
-            if (110 < $(window).scrollTop() && !scrolled) {
-                nav.addClass('sticky animated fadeInDown').animate({ 'margin-top': '0px' });
-
-                scrolled = true;
-            }
-
-            if (110 > $(window).scrollTop() && scrolled) {
-                nav.removeClass('sticky animated fadeInDown').css('margin-top', '0px');
-
-                scrolled = false;
-            }
-        });
-    }());
-
-
-
-
-    /* === Progress Bar === */
-    (function () {
-
-        $('.progress').on('inview', function(event, visible, visiblePartX, visiblePartY) {
-            if (visible) {
-                $.each($('div.progress-bar'),function(){
-                    $(this).css('width', $(this).attr('aria-valuenow')+'%');
-                });
-                $(this).off('inview');
-            }
-        });
-
-    }());
-
-
-
-
-
-    /* === Counter === */
-    (function () {
-
-        $('.counter-section').on('inview', function(event, visible, visiblePartX, visiblePartY) {
-            if (visible) {
-                $(this).find('.timer').each(function () {
-                    var $this = $(this);
-                    $({ Counter: 0 }).animate({ Counter: $this.text() }, {
-                        duration: 2000,
-                        easing: 'swing',
-                        step: function () {
-                            $this.text(Math.ceil(this.Counter));
-                        }
-                    });
-                });
-                $(this).off('inview');
-            }
-        });
-
-    }());
-
-
-
-
 
     /* === Shuffle === */
     (function () {
@@ -140,51 +50,6 @@ jQuery(function ($) {
             // reshuffle grid
             $grid.shuffle('shuffle', groupName );
         });
-    }());
-
-
-
-    /* ======= Recent Project Carousel ======= */
-    (function () {
-
-      var owl = $(".recent-project-carousel");
-     
-      owl.owlCarousel({
-          items : 5, //5 items above 1000px browser width
-          itemsDesktop : [1024,4], //4 items between 1000px and 901px
-          itemsDesktopSmall : [900,3], // betweem 900px and 601px
-          itemsTablet: [600,2], //2 items between 600 and 480
-          itemsMobile : [479,1], //1 item between 480 and 0
-          pagination : false // Show pagination
-      });
-
-
-      // Custom Navigation Events
-      $(".btn-next").on('click', function(){
-        owl.trigger('owl.next');
-      })
-      $(".btn-prev").on('click', function(){
-        owl.trigger('owl.prev');
-      })
-
-
-    }());
-
-
-    /* ======= Partner Carousel ======= */
-    (function () {
-
-      var owl = $(".partner-carousel");
-     
-      owl.owlCarousel({
-          items : 4, //5 items above 1000px browser width
-          itemsDesktop : [1024,4], //4 items between 1000px and 901px
-          itemsDesktopSmall : [900,3], // betweem 900px and 601px
-          itemsTablet: [600,2], //2 items between 600 and 480
-          itemsMobile : [479,1], //1 item between 480 and 0
-          pagination : false // Show pagination
-      });
-
     }());
 
 
