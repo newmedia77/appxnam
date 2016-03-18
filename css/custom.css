@@ -793,8 +793,8 @@ li {
 .portfolio-container ul#grid li{
     float: left;
     display: block;
-    width: 30%;
-    height: 5%;
+    width: 33%;
+    height: 25%;
 }
 .portfolio-item {
     min-height: 200px;
