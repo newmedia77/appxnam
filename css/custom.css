@@ -803,6 +803,8 @@ li {
 .portfolio {
     position: relative;
     overflow: hidden;
+    border: 2px solid #cccccc;
+    margin: 5px;
 }
 
 /* Portfolio overlay
