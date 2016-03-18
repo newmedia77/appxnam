@@ -37,8 +37,8 @@ jQuery(function ($) {
         });
 
         /* reshuffle when user clicks a filter item */
-       // $('#filter li').on('click', function (e) {
-         //   e.preventDefault();
+        $('#filter li').on('click', function (e) {
+            e.preventDefault();
 
             // set active class
            // $('#filter li').removeClass('active');
