@@ -48,7 +48,7 @@ jQuery(function ($) {
             var groupName = $(this).attr('data-group');
 
             // reshuffle grid
-            $grid.shuffle('shuffle', groupName );
+           // $grid.shuffle('shuffle', groupName );
         });
     }());
 
