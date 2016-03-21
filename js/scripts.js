@@ -41,14 +41,14 @@ jQuery(function ($) {
             e.preventDefault();
 
             // set active class
-            //$('#filter li').removeClass('portfolio-active');
-            //$(this).addClass('portfolio-active');
+            $('#filter li').removeClass('portfolio-active');
+            $(this).addClass('portfolio-active');
 
             // get group name from clicked item
             var groupName = $(this).attr('data-group');
 
             // reshuffle grid
-           // $grid.shuffle('shuffle', groupName );
+            $grid.shuffle('shuffle', groupName );
         });
     }());
 
