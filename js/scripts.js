@@ -33,7 +33,7 @@ jQuery(function ($) {
         var $grid = $('#grid');
 
         $grid.shuffle({
-            itemSelector: '.portfolio' // the selector for the items in the grid
+            itemSelector: '.portfolio-item' // the selector for the items in the grid
         });
 
         /* reshuffle when user clicks a filter item */
@@ -41,8 +41,8 @@ jQuery(function ($) {
             e.preventDefault();
 
             // set active class
-            $('#filter li').removeClass('portfolio-active');
-            $(this).addClass('portfolio-active');
+            $('#filter li').removeClass('active');
+            $(this).addClass('active');
 
             // get group name from clicked item
             var groupName = $(this).attr('data-group');
