@@ -1038,13 +1038,13 @@ object {
     color: #fff;
 }
 
-.portfolio-container ul#portfolio-grid {
+.portfolio-container ul#grid {
     overflow: hidden;
 }
-.portfolio-container ul#portfolio-grid li img{
+.portfolio-container ul#grid li img{
 
 }
-.portfolio-container ul#portfolio-grid li{
+.portfolio-container ul#grid li{
     float: left;
     display: block;
     width: 20%;
