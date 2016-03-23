@@ -33,7 +33,7 @@ jQuery(function ($) {
         var $grid = $('#grid');
 
         $grid.shuffle({
-            itemSelector: '.portfolio-item' // the selector for the items in the grid
+            itemSelector: '.portfolio' // the selector for the items in the grid
         });
 
         /* reshuffle when user clicks a filter item */
