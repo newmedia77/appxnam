@@ -3,6 +3,12 @@
 
 /* =-=-=-=-=-=-= Creative Section =-=-=-=-=-=-= */
 
+@media only screen and (min-width: 768px) {
+    .service-tab li {
+        display: none;
+    }
+}
+
 .creative-section {
     padding: 0 0 100px;
 }
