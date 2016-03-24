@@ -3,8 +3,8 @@
 
 /* =-=-=-=-=-=-= Creative Section =-=-=-=-=-=-= */
 
-@media only screen and (min-width: 768px) {
-    .service-tab li {
+@media only screen and (min-width: 366px) {
+    .service-tab li span {
         display: none;
     }
 }
