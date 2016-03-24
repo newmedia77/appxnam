@@ -55,6 +55,7 @@ jQuery(function ($) {
 
 
 
+
     /* ======= BlackAndWhite Script ======= */
     (function () {
         $('.bwWrapper').BlackAndWhite({
