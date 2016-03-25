@@ -656,34 +656,12 @@ ul.project-meta{
 
 
 
-/* =-=-=-=-=-=-= Contact Section =-=-=-=-=-=-= 
-
-.contact-section {
-    padding: 100px 0 150px;
-}
-.contact-section .btn{
-    font-weight: 600;
-    min-width: 350px;
-    border-radius: 30px;
-    background-color: #ffa500;
-    border-color: #ffa500;
-}
-.contact-section .btn:hover{
-    background-color: #C02232;
-    border-color: #C02232;
-}
-
-*/
+/* =-=-=-=-=-=-= Contact Section =-=-=-=-=-=-= */
 
 section#contact {
-    background-color: #222;
-    background-image: url(../img/map-image.png);
+    background-color: #2C3E50;
     background-position: center;
     background-repeat: no-repeat;
-}
-
-section#contact .section-heading {
-    color: #fff;
 }
 
 section#contact .form-group {
