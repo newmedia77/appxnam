@@ -720,12 +720,12 @@ section#contact .text-danger {
 .backToTop i{
     font-size: 70px;
     line-height: 85px;
-    color: #fff;
+    color: #444444;
     width: 100px;
     height: 100px;
     position: relative;
-    top: -90px;
-    border: 5px solid #fff;
+    top: -70px;
+    border: 5px solid #ccc;
     border-radius: 50%;
     -webkit-transition: all 0.4s ease-in-out;
     -moz-transition: all 0.4s ease-in-out;
