@@ -832,12 +832,8 @@ li {
     font-weight: 600;
     min-width: 350px;
     border-radius: 30px;
-    background-color: #ff2a40;
-    border-color: #ff2a40;
 }
 .contact-section .btn:hover{
-    background-color: #C02232;
-    border-color: #C02232;
 }
 /* Footer page up */
 
