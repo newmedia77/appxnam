@@ -469,4 +469,7 @@ input[type="file"] { padding-bottom: 14.4px; width: 100%; }
 
 select { margin-bottom: 28.8px; max-width: 100%; width: auto; }
 
+h2.section-heading {
+    color: #ffffff;
+}
 
