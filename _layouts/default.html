@@ -24,8 +24,36 @@ common-googlefonts:
 
     <div role="main" class="container main-content">
       {{ content }}
+    </div>
+      {% include contact.html %}
+      <aside class="clients">
+          <div class="container">
+              <div class="row">
+                  <div class="col-md-3 col-sm-6">
+                    <a href="#">
+                          <i class="fa fa-html5 fa-5x"></i>
+                    </a>
+                  </div>
+                  <div class="col-md-3 col-sm-6">
+                    <a href="#">
+                        <i class="fa fa-css3 fa-5x"></i>
+                    </a>
+                    </div>
+                  <div class="col-md-3 col-sm-6">
+                    <a href="#">
+                        <i class="fa fa-diamond fa-5x"></i>
+                    </a>
+                    </div>
+                  <div class="col-md-3 col-sm-6">
+                    <a href="#">
+                        <i class="fa fa-rocket fa-5x"></i>
+                    </a>
+                    </div>
+                  </div>
+                </div>
+            </aside>
+  
 
-    {% include contact.html %}
     {% include footer.html %}
 
   </body>
