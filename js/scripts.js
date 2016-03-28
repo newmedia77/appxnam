@@ -121,11 +121,11 @@ jQuery(function ($) {
         });
 
         /* reshuffle when user clicks a filter item */
-        $('#filter li').on('click', function (e) {
+        $('#filter a').on('click', function (e) {
             e.preventDefault();
 
             // set active class
-            $('#filter li').removeClass('active');
+            $('#filter a').removeClass('active');
             $(this).addClass('active');
 
             // get group name from clicked item
