@@ -18,11 +18,12 @@
 		display: none;
 	}
 
-	/* === PORTFOLIO SECTION === */
+	/* === PORTFOLIO SECTION === 
 	.nav-tabs.nav-justified>li{
 		display: table-cell;
 		width: 1%;
 	}
+	*/
 
 	/*cta-two-section*/
 	.cta-two-section .btn {
@@ -48,10 +49,10 @@
 	.sbox-gutter {
 	    border: 0;
 	}
-	/* === PORTFOLIO SECTION === */
+	/* === PORTFOLIO SECTION === 
 	.portfolio-container ul#grid li{
 	    width: 100%;
-	}
+	}*/
 	/*team sction*/
 	.team-thumb {
 	  margin-bottom: 30px;
@@ -79,19 +80,19 @@
 		display: block;
 	}
 
-	/* === PORTFOLIO SECTION === */
+	/* === PORTFOLIO SECTION === 
 	.nav-tabs.nav-justified>li{
 		display: table-cell;
 		width: 1%;
-	}
+	}*/
 
-	/* === PORTFOLIO SECTION === */
+	/* === PORTFOLIO SECTION === 
 	.portfolio-container ul#grid li{
 	    width: 50%;
 	}
 	.portfolio-item {
 	  min-height: 170px;
-	}
+	}*/
 
 	/* === about-section === */
 	.video-wrap iframe {
@@ -142,13 +143,14 @@
 		border-bottom: 1px solid #dedede;
 	}
 
-	/* === PORTFOLIO SECTION === */
+	/* === PORTFOLIO SECTION === 
 	.portfolio-container ul#grid li{
 	    width: 100%;
 	}
 	.portfolio-item {
 	  min-height: 180px;
 	}
+	*/
 
 	/*cta-two-section*/
 	.cta-two-section .btn {
@@ -186,13 +188,14 @@
 /* Medium devices (desktops, 992px and up) */
 @media only screen and (min-width:480px) and (max-width: 640px)  {
 
-	/* === PORTFOLIO SECTION === */
+	/* === PORTFOLIO SECTION === 
 	.portfolio-container ul#grid li{
 	    width: 100%;
 	}
 	.portfolio-item {
 	  min-height: 180px;
 	}
+	*/
 	
 	/* === about-section === */
 	.video-wrap iframe {
@@ -205,21 +208,21 @@
 /* Large devices (large desktops, 1200px and up) */
 @media only screen and (min-width:480px) and (max-width: 640px)  {
 
-	/* === PORTFOLIO SECTION === */
+	/* === PORTFOLIO SECTION === 
 	.portfolio-item {
 	  min-height: 180px;
 	}
 
 }
-
+*/
 
 
 /* Large devices (large desktops, 1200px and up) */
 @media only screen and (min-width:480px) and (max-width: 640px)  {
 
-	/* === PORTFOLIO SECTION === */
+	/* === PORTFOLIO SECTION === 
 	.portfolio-item {
 	  min-height: 275px;
 	}
 
-}
+} */
