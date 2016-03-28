@@ -488,7 +488,7 @@ ul.project-meta{
 }
 
 
-/* =-=-=-=-=-=-= Portfolio Section =-=-=-=-=-=-= 
+/* =-=-=-=-=-=-= Portfolio Section =-=-=-=-=-=-= */
 
 .portfolio-container {
     padding-top: 55px;
@@ -532,7 +532,7 @@ ul.project-meta{
 }
 
 /* Portfolio overlay
------------------------------- 
+------------------------------ */
 
 .portfolio::before {
     content: "";
@@ -611,10 +611,6 @@ ul.project-meta{
 .portfolio-container .btn.view-more {
     margin-top: 40px;
 }
-
-*/
-
-
 
 /* =-=-=-=-=-=-= Case study section =-=-=-=-=-=-= */
 

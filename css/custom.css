@@ -539,7 +539,7 @@ li {
 }
 
 
-/* =-=-=-=-=-=-= Portfolio Section =-=-=-=-=-=-= */
+/* =-=-=-=-=-=-= Portfolio Section =-=-=-=-=-=-= 
 
 .portfolio-container {
     padding-top: 55px;
@@ -583,7 +583,7 @@ li {
 }
 
 /* Portfolio overlay
-/* ------------------------------ */
+/* ------------------------------ 
 
 .portfolio::before {
     content: "";
@@ -663,6 +663,7 @@ li {
     margin-top: 40px;
 }
 
+*/
 
 /* =-=-=-=-=-=-= Testimonial Section =-=-=-=-=-=-= */
 
