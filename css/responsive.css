@@ -22,8 +22,7 @@
 	.nav-tabs.nav-justified>li{
 		display: table-cell;
 		width: 1%;
-	}
-	*/
+	}*/
 
 	/*cta-two-section*/
 	.cta-two-section .btn {
@@ -84,7 +83,7 @@
 	.nav-tabs.nav-justified>li{
 		display: table-cell;
 		width: 1%;
-	}*/
+	} */
 
 	/* === PORTFOLIO SECTION === 
 	.portfolio-container ul#grid li{
@@ -92,7 +91,7 @@
 	}
 	.portfolio-item {
 	  min-height: 170px;
-	}*/
+	} */
 
 	/* === about-section === */
 	.video-wrap iframe {
@@ -149,8 +148,7 @@
 	}
 	.portfolio-item {
 	  min-height: 180px;
-	}
-	*/
+	} */
 
 	/*cta-two-section*/
 	.cta-two-section .btn {
@@ -185,17 +183,16 @@
 
 
 
-/* Medium devices (desktops, 992px and up) 
+/* Medium devices (desktops, 992px and up) */
 @media only screen and (min-width:480px) and (max-width: 640px)  {
 
-	/* === PORTFOLIO SECTION === 
-	.portfolio-container ul#grid li{
+	/* === PORTFOLIO SECTION === */
+	.container #grid{
 	    width: 100%;
 	}
 	.portfolio-item {
 	  min-height: 180px;
 	}
-	*/
 	
 	/* === about-section === */
 	.video-wrap iframe {
@@ -205,31 +202,24 @@
 }
 
 
-/* Large devices (large desktops, 1200px and up) 
+/* Large devices (large desktops, 1200px and up) */
 @media only screen and (min-width:480px) and (max-width: 640px)  {
 
-	/* === PORTFOLIO SECTION === 
+	/* === PORTFOLIO SECTION === */
 	.portfolio-item {
 	  min-height: 180px;
 	}
 
 }
-*/
 
 
-/* Large devices (large desktops, 1200px and up) 
+
+/* Large devices (large desktops, 1200px and up) */
 @media only screen and (min-width:480px) and (max-width: 640px)  {
 
-	/* === PORTFOLIO SECTION === 
+	/* === PORTFOLIO SECTION === */
 	.portfolio-item {
 	  min-height: 275px;
 	}
 
-} */
-
-@media only screen and (max-width: 366px) {
-    .portfolio-item {
-        width: 100%;
-        min-height: 275px;
-    }
 }
