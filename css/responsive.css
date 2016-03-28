@@ -208,6 +208,7 @@
 	/* === PORTFOLIO SECTION === */
 	.portfolio-item {
 	  min-height: 180px;
+	  min-width: 20%;
 	}
 
 }
@@ -220,6 +221,7 @@
 	/* === PORTFOLIO SECTION === */
 	.portfolio-item {
 	  min-height: 275px;
+	  min-width: 20%
 	}
 
 }
