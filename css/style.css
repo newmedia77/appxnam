@@ -622,7 +622,7 @@ ul.project-meta{
  
 #grid {clear: both; position: relative}
 .portfolio-item {width: 20%; height: 230px; background: grey; float: left; margin-right: 10px; margin-bottom: 10px; color: #fff; font-size: 60px; text-align: center; line-height: 230px; cursor: default;}
-@media only screen and (min-width: 366px) {
+@media only screen and (max-width: 366px) {
     .portfolio-item {
         width: 100%;
     }
