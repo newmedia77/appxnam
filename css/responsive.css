@@ -185,7 +185,7 @@
 
 
 
-/* Medium devices (desktops, 992px and up) */
+/* Medium devices (desktops, 992px and up) 
 @media only screen and (min-width:480px) and (max-width: 640px)  {
 
 	/* === PORTFOLIO SECTION === 
@@ -205,7 +205,7 @@
 }
 
 
-/* Large devices (large desktops, 1200px and up) */
+/* Large devices (large desktops, 1200px and up) 
 @media only screen and (min-width:480px) and (max-width: 640px)  {
 
 	/* === PORTFOLIO SECTION === 
@@ -217,7 +217,7 @@
 */
 
 
-/* Large devices (large desktops, 1200px and up) */
+/* Large devices (large desktops, 1200px and up) 
 @media only screen and (min-width:480px) and (max-width: 640px)  {
 
 	/* === PORTFOLIO SECTION === 
@@ -226,3 +226,10 @@
 	}
 
 } */
+
+@media only screen and (max-width: 366px) {
+    .portfolio-item {
+        width: 100%;
+        min-height: 275px;
+    }
+}
