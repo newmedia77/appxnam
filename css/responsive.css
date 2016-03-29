@@ -89,7 +89,11 @@
 	} 
 
 	/* === PORTFOLIO SECTION === */
-	.container ul#grid li{
+	.container {
+	    width: 50%;
+	}
+
+	#grid{
 	    width: 50%;
 	}
 	.portfolio-item {
