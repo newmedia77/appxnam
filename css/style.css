@@ -614,11 +614,28 @@ ul.project-meta{
 */
 
 #container {width: 100%; margin: 0 auto;}
- 
+
+#filter {
+    margin-bottom: 50px;
+}
+#filter li, #filter a {
+    display: inline-block;
+    font-size: 16px;
+    line-height: 25px;
+    padding: 7px 20px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+#filter a.active{
+    background-color: #ffa500;
+    color: #fff;
+}
+ /*
 #filter {list-style-type: none; margin: 0; padding: 0}
 #filter li, #filter a {display: block; float: left; margin: 0}
 #filter a { background: #ddd; border: 1px solid #666; text-decoration: none; padding: 5px 10px;}
 #filter a.active {background: yellow;}
+*/
  
 #grid {clear: both; position: relative}
 .portfolio-item {width: 230px; height: 230px; float: left; margin-right: 10px; margin-bottom: 10px; color: #fff; font-size: 60px; text-align: center; line-height: 230px; cursor: default;}
