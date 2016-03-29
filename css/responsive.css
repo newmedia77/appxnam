@@ -49,7 +49,7 @@
 	    border: 0;
 	}
 	/* === PORTFOLIO SECTION === 
-	.portfolio-container ul#grid li{
+	.container #grid{
 	    width: 100%;
 	}*/
 	/*team sction*/
@@ -208,7 +208,6 @@
 	/* === PORTFOLIO SECTION === */
 	.portfolio-item {
 	  min-height: 180px;
-	  min-width: 20%;
 	}
 
 }
@@ -221,7 +220,6 @@
 	/* === PORTFOLIO SECTION === */
 	.portfolio-item {
 	  min-height: 275px;
-	  min-width: 20%;
 	}
 
 }
