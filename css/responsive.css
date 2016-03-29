@@ -230,4 +230,5 @@
 	/* === PORTFOLIO SECTION === */
 
 .portfolio-item {width: 230px; height: 230px; background: grey; float: left; margin-right: 10px; margin-bottom: 10px; color: #fff; font-size: 60px; text-align: center; line-height: 230px; cursor: default;}
+#grid {clear: both; position: relative}
 }

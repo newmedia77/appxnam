@@ -620,7 +620,7 @@ ul.project-meta{
 #filter a { background: #ddd; border: 1px solid #666; text-decoration: none; padding: 5px 10px;}
 #filter a.active {background: yellow;}
  
-#grid {clear: both; position: relative}
+#pgrid {clear: both; position: relative}
 .portfolioitem {width: 230px; height: 230px; background: grey; float: left; margin-right: 10px; margin-bottom: 10px; color: #fff; font-size: 60px; text-align: center; line-height: 230px; cursor: default;}
 
 /* =-=-=-=-=-=-= Case study section =-=-=-=-=-=-= */
