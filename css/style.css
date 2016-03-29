@@ -611,9 +611,9 @@ ul.project-meta{
 .portfolio-container .btn.view-more {
     margin-top: 40px;
 }
+*/
 
-
-#container {width: 960px; margin: 0 auto;} */
+#container {width: 960px; margin: 0 auto;} 
  
 #filter {list-style-type: none; margin: 0; padding: 0}
 #filter li, #filter a {display: block; float: left; margin: 0}
