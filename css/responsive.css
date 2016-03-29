@@ -55,9 +55,6 @@
 	#grid{
 	    width: 100%;
 	}
-	.portfolio-item{
-		width: 100%;
-	}
 	/*team sction*/
 	.team-thumb {
 	  margin-bottom: 30px;
@@ -162,7 +159,6 @@
 	}
 	.portfolio-item {
 	  min-height: 180px;
-	  width: 100%;
 	} 
 
 	/*cta-two-section*/
@@ -228,19 +224,6 @@
 	/* === PORTFOLIO SECTION === */
 	.portfolio-item {
 	  min-height: 180px;
-	  width: 100%;
-	}
-
-}
-
-
-
-/* Large devices (large desktops, 1200px and up) */
-@media only screen and (min-width:480px) and (max-width: 640px)  {
-
-	/* === PORTFOLIO SECTION === */
-	.portfolio-item {
-	  min-height: 275px;
 	  width: 100%;
 	}
 
