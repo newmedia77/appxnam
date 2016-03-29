@@ -637,7 +637,7 @@ ul.project-meta{
 #filter a.active {background: yellow;}
 */
  
-#grid {clear: both; position: relative}
+#grid {clear: both; position: relative; display: block; margin: 0 auto;}
 .portfolio-item {width: 230px; height: 230px; float: left; margin-right: 10px; margin-bottom: 10px; color: #fff; font-size: 60px; text-align: center; line-height: 230px; cursor: default;}
 
 /* =-=-=-=-=-=-= Case study section =-=-=-=-=-=-= */
