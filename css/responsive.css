@@ -195,15 +195,15 @@
 
 
 /* Medium devices (desktops, 992px and up) */
-@media only screen and (min-width:366px) and (max-width: 640px)  {
+@media (min-width : 992px) and (max-width : 1199px)  {
 
 	/* === PORTFOLIO SECTION === */
 	.container {
-	    width: 100%;
+	    width: 25%;
 	}
 
 	#grid{
-	    width: 100%;
+	    width: 25%;
 	}
 	.portfolio-item {
 	  min-height: 180px;
