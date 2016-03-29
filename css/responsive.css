@@ -87,10 +87,10 @@
 
 	/* === PORTFOLIO SECTION === */
 	.container #grid {
-	    width: 50%;
+
 	}
 	.portfolio-item {
-	  min-height: 170px;
+
 	} 
 
 	/* === about-section === */
@@ -147,7 +147,7 @@
 	    width: 100%;
 	}
 	.portfolio-item {
-	  min-height: 180px;
+
 	} 
 
 	/*cta-two-section*/
@@ -188,10 +188,10 @@
 
 	/* === PORTFOLIO SECTION === */
 	.container #grid{
-	    width: 100%;
+
 	}
 	.portfolio-item {
-	  min-height: 180px;
+
 	}
 	
 	/* === about-section === */
@@ -206,8 +206,7 @@
 @media only screen and (min-width:480px) and (max-width: 640px)  {
 
 	/* === PORTFOLIO SECTION === */
-	.portfolio-item {
-	  min-height: 180px;
+
 	}
 
 }
@@ -219,7 +218,7 @@
 
 	/* === PORTFOLIO SECTION === */
 	.portfolio-item {
-	  min-height: 275px;
+
 	}
 
 }
