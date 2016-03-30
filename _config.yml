@@ -31,11 +31,11 @@ navbar-links:
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Andreas Adhen
-  facebook: newaspectmedia  # eg. daattali
-  github: newmedia77    # eg. daattali
-  twitter: newaspectmedia   # eg. daattali
-  linkedin: yourlink  # eg. "pub/dean-attali/8/946/143"
-  stackoverflow: yourlink  # eg. "3943160/daattali"
+  facebook: newaspectmedia  
+  github: newmedia77    
+  twitter: newaspectmedia   
+  linkedin: yourlink  
+  stackoverflow: yourlink  
 
 # Select which links to show in the footer
 footer-links-active:
