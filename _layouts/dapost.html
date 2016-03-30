@@ -1,0 +1,60 @@
+---
+common-css:
+  - "/css/bootstrap.min.css"
+  - "/css/main.css"
+font-css:
+  - "/css/font-mfizz-2.2/font-mfizz.css"
+custom-css:
+  - "/css/custom.css"
+common-ext-css:
+  - "//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"
+common-googlefonts:
+  - "Lora:400,700,400italic,700italic"
+  - "Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800"
+---
+
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html %}
+
+  <body id="page-top" data-spy="scroll" data-target=".navbar">
+
+    {% include nav.html %}
+
+    <div role="main" class="container main-content">
+      {{ content }}
+    </div> 
+      {% include contact.html %}
+      <aside class="clients">
+          <div class="container">
+              <div class="row">
+                  <div class="col-md-3 col-sm-6">
+                    <a href="#">
+                          <i class="fa fa-html5 fa-5x"></i>
+                    </a>
+                  </div>
+                  <div class="col-md-3 col-sm-6">
+                    <a href="#">
+                        <i class="fa fa-css3 fa-5x"></i>
+                    </a>
+                    </div>
+                  <div class="col-md-3 col-sm-6">
+                    <a href="#">
+                        <i class="fa fa-diamond fa-5x"></i>
+                    </a>
+                    </div>
+                  <div class="col-md-3 col-sm-6">
+                    <a href="#">
+                        <i class="fa fa-rocket fa-5x"></i>
+                    </a>
+                    </div>
+                  </div>
+                </div>
+            </aside>
+  
+
+    {% include footer.html %}
+
+  </body>
+</html>
