@@ -18,7 +18,7 @@
                     </li>
 
                     <li>
-                        {% if layout.dapost %}
+                        {% if post.layout == dapost %}
                         <a class="page-scroll" href="{{ '#services' | prepend: '/' | prepend: site.url }}">Sservices</a>
                         
                         {% else %}
