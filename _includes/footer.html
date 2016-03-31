@@ -89,14 +89,14 @@
           {% endif %}     
         </ul>
   <!-- Optional: clear the XS cols if their content doesn't match in height -->
-  
-      <p class="copyright text-muted">
+  <div class="clearfix visible-xs-block"></div>
+  <div class="copyright">
       {{ site.time | date: '%Y' }}
       {% if site.url-pretty %}
       &nbsp;&bull;&nbsp;
       <a href="{{ site.url }}">{{ site.url-pretty }}</a>
       {% endif %}
-      </p>
+    </div>
   </div>
 </div>
   <script type="text/javascript">
