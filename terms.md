@@ -1,5 +1,5 @@
 ---
-layout: dapost
+layout: post
 title: Terms &amp; Conditions
 subtitle: Legal stuff 
 slug: 

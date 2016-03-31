@@ -1,5 +1,5 @@
 ---
-layout: dapost
+layout: post
 title: Cookies
 subtitle: What are web cookies?
 slug: 
