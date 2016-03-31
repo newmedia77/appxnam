@@ -346,15 +346,15 @@ subtitle: Hire Web Developer &amp; SEO Specialist in London
         <!-- post -->
 
 
-        <div class="posts-list">
-            <h2 class="home-post">Web Development Blog</h2>
-                    <section id="blog">
-        <div class="container">
+<div class="posts-list">
+    <h2 class="home-post">Web Development Blog</h2>
+        <section id="blog">
+           <div class="container">
             <div class="row">
           {% for post in paginator.posts %}
-          <article class="post-preview">
-            <a href="{{ post.url | prepend: site.baseurl }}">
-              <h2 class="post-title">{{ post.title }}</h2>
+             <article class="post-preview">
+             <a href="{{ post.url | prepend: site.baseurl }}">
+             <h2 class="post-title">{{ post.title }}</h2>
 
               {% if post.subtitle %}
               <h3 class="post-subtitle">
@@ -374,7 +374,7 @@ subtitle: Hire Web Developer &amp; SEO Specialist in London
 
            </article>
           {% endfor %}
-        </div>
+           </div>
 
         {% if paginator.total_pages > 1 %}
         <ul class="pager main-pager">
@@ -390,7 +390,7 @@ subtitle: Hire Web Developer &amp; SEO Specialist in London
           {% endif %}
         </ul>
         {% endif %}
-                </div>
-    </section>
         </div>
+    </section>
+</div>
 
