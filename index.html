@@ -344,9 +344,10 @@ subtitle: Hire Web Developer &amp; SEO Specialist in London
         </section><!-- /.map-section -->
 
         <!-- post -->
-        <section id="web-news" class="blog-section">
+        <section id="web-news">
 
-        <div class="posts-list"><h2 class="home-post">Web Development Blog</h2>
+        <div class="posts-list">
+            <h2 class="home-post">Web Development Blog</h2>
           {% for post in paginator.posts %}
           <article class="post-preview">
             <a href="{{ post.url | prepend: site.baseurl }}">
