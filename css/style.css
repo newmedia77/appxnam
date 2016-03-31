@@ -318,16 +318,6 @@ ul.project-meta{
 .cta-one-section {
     background-color: #fafafa;
 }
-@media(min-width:768px) {
-
-    .cta-one-section {
-        background-image: url(../../assets/images/cta-one-bg.jpg);
-        -webkit-background-size: cover;
-        background-size: cover;
-    }
-}
-
-
 .cta-one-section h2{
     font-size: 30px;
     color: #202020;
@@ -341,15 +331,10 @@ ul.project-meta{
     margin-top: 30px;
 }
 
-
-
-
-
-
 /* =-=-=-=-=-=-= Call to action section =-=-=-=-=-=-= */
 
 .cta-two-section {
-    padding: 74px 0;
+    padding: 24px 0;
     background-color: #ffa500;
     color: #fff;
 }
