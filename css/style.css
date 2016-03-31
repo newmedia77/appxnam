@@ -10,7 +10,7 @@
 }
 
 .creative-section {
-    padding: 0 0 100px;
+    padding: 0 0 10px;
 }
 
 .service-tab{
@@ -685,6 +685,7 @@ ul.project-meta{
 section#contact {
     background-position: center;
     background-repeat: no-repeat;
+    margin-bottom: 30px;
 }
 
 section#contact .form-group {
