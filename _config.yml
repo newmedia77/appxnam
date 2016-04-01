@@ -18,6 +18,16 @@ description: London Web Developer and SEO specialist!
 # Remove this parameter if you don't want an image in the navbar
 avatar: "/img/appx360-logo.png"
 
+# Archive settings (see https://github.com/jekyll/jekyll-archives/)
+jekyll-archives: 
+  enabled: 
+    - categories
+    - tags
+  layout: 'archive'
+  permalinks:
+    category: '/category/:name/'
+    tag: '/tag/:name/'
+
 # List of links in the navigation bar
 navbar-links:
   Home: ""
