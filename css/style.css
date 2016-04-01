@@ -594,6 +594,10 @@ ul.project-meta{
 }
 */
 
+section#portfolio {
+    margin-bottom: 20px;
+}
+
 #container {width: 100%; margin: 0 auto;}
 
 #filter {
