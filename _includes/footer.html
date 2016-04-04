@@ -1,10 +1,9 @@
 <footer class="footer-section text-center">
   <div class="container appx-footer">
-    <a class="page-scroll backToTop" href="#page-top"><i class="fa fa-angle-up"></i></a>
-<div class="row">
-  <div class="col-xs-12">
-    <div class="col-md-4">
-
+    <div class="row">
+      <div class="col-xs-12">
+        <a class="page-scroll backToTop" href="#page-top"><i class="fa fa-angle-up"></i></a>
+        <div class="col-md-4">
             <ul class="nav navbar-nav navbar-right">
                 <li>
                   {% if page.layout == 'default' %}
@@ -30,16 +29,16 @@
           </div>
       <div class="col-md-4">
   
-  <ul class="list-inline text-center footer-links">
-          {% if site.author.facebook and site.footer-links-active.facebook %}
-          <li>
-            <a href="https://www.facebook.com/{{ site.author.facebook }}" title="Facebook">
-              <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
-              </span>
-            </a>
-          </li>
+      <ul class="list-inline text-center footer-links">
+              {% if site.author.facebook and site.footer-links-active.facebook %}
+              <li>
+                <a href="https://www.facebook.com/{{ site.author.facebook }}" title="Facebook">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
           {% endif %}
           {% if site.author.github and site.footer-links-active.github %}
           <li>
@@ -104,21 +103,21 @@
         </ul>
       </div>
   <!-- Optional: clear the XS cols if their content doesn't match in height -->
-  <div class="clearfix visible-xs-block"></div>
-  <div class="col-md-4">
-  <div class="copyright">
-      {{ site.time | date: '%Y' }}
-      {% if site.url-pretty %}
-      &nbsp;&bull;&nbsp;
-      <a href="{{ site.url }}">{{ site.url-pretty }}</a>
-      {% endif %}
+    <div class="clearfix visible-xs-block"></div>
+      <div class="col-md-4">
+      <div class="copyright">
+          {{ site.time | date: '%Y' }}
+          {% if site.url-pretty %}
+          &nbsp;&bull;&nbsp;
+          <a href="{{ site.url }}">{{ site.url-pretty }}</a>
+          {% endif %}
+        </div>
+      </div>
+      </div>
     </div>
-  </div>
-  </div>
-</div>
-  <script type="text/javascript">
-            var contactform = document.getElementById('contactform');contactform.setAttribute('action','//formspree.io/' + 'newaspectmedia' + '@' + 'gmail' + '.' + 'com');
-  </script>
-  {% include js.html %}
-  {% include google_analytics.html %}
+      <script type="text/javascript">
+                var contactform = document.getElementById('contactform');contactform.setAttribute('action','//formspree.io/' + 'newaspectmedia' + '@' + 'gmail' + '.' + 'com');
+      </script>
+      {% include js.html %}
+      {% include google_analytics.html %}
 </footer>
