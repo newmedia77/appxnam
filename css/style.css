@@ -741,11 +741,3 @@ section#contact .text-danger {
     -o-transition: all 0.4s ease-in-out;
     transition: all 0.4s ease-in-out;
 }
-
-/* =-=-=-=-=-=-= Web tips =-=-=-=-=-=-= */
-ul.web-tips{
-    margin-bottom: 10px;
-}
-
-
-
