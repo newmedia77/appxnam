@@ -411,4 +411,12 @@ subtitle: Hire Web Developer &amp; SEO Specialist in London
             </section>
         </div>
 
+        <article class="post-content">
+        <ul class="posts-list">
+            {% for post in page.posts %}
+            <li><strong><a class="post-link" href="{{ post.url | remove_first: '/' | prepend: site.baseurl }}">{{ post.title }}</a></strong><span class="post-date"> - {{ post.date | date: "%B %-d, %Y" }}</span></li>
+            {% endfor %}
+        </ul>
+    </article>
+
 
