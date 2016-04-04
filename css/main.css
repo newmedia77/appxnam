@@ -468,3 +468,8 @@ input[type="checkbox"], input[type="radio"] { display: inline; margin-right: 7.2
 input[type="file"] { padding-bottom: 14.4px; width: 100%; }
 
 select { margin-bottom: 28.8px; max-width: 100%; width: auto; }
+
+/* =-=-=-=-=-=-= Web tips =-=-=-=-=-=-= */
+ul.web-tips{
+    margin-bottom: 10px;
+}
