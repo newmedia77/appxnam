@@ -368,15 +368,13 @@ subtitle: Hire Web Developer &amp; SEO Specialist in London
                 <section id="blog">
                    <div class="container">
                     <div class="row">
-
+                                            {% if post.categories == webhelp %}
+                            {% exclude categories.webhelp %}
+                        {% endif %}
                   {% for post in paginator.posts %}
                      <article class="post-preview">
                      <a href="{{ post.url | prepend: site.baseurl }}">
                      <h2 class="post-title">{{ post.title }}</h2>
-
-                    {% if post.categories == webhelp %}
-                            {% exclude categories.webhelp %}
-                        {% else %}
 
                       {% if post.subtitle %}
                       <h3 class="post-subtitle">
@@ -400,7 +398,6 @@ subtitle: Hire Web Developer &amp; SEO Specialist in London
                     </div>
 
                    </article>
-                   {% endif %}
                   {% endfor %}
                    </div>
 
@@ -417,7 +414,6 @@ subtitle: Hire Web Developer &amp; SEO Specialist in London
                   </li>
                   {% endif %}
                 </ul>
-                {% endif %}
                 {% endif %}
                 </div>
             </section>
