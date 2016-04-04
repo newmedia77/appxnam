@@ -873,5 +873,8 @@ li {
     position: relative;
 }
 
-
+/* ====== Web tips */
+ul.web-tips li {
+    margin-bottom: 10px;
+}
 
