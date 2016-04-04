@@ -262,7 +262,7 @@ subtitle: Hire Web Developer &amp; SEO Specialist in London
                         <div class="case-study-right">
                             <h1>Why business apps?</h1>
                             <p>Web or Mobile business apps are a great tool for the company and the end user. eShop on the go, ordering pizza or generating reports as an estate agent are some of the examples... </p>
-                            <a href="why-business-apps" class="btn btn-primary btn-lg">Learn more</a>
+                            <a href="#" class="btn btn-primary btn-lg">Learn more</a>
                         </div><!-- /.left-section -->
                     </div><!-- /.col-sm-6 -->
 
@@ -368,9 +368,6 @@ subtitle: Hire Web Developer &amp; SEO Specialist in London
                 <section id="blog">
                    <div class="container">
                     <div class="row">
-                                            {% if post.categories == webhelp %}
-                            {% exclude categories.webhelp %}
-                        {% endif %}
                   {% for post in paginator.posts %}
                      <article class="post-preview">
                      <a href="{{ post.url | prepend: site.baseurl }}">
@@ -379,11 +376,6 @@ subtitle: Hire Web Developer &amp; SEO Specialist in London
                       {% if post.subtitle %}
                       <h3 class="post-subtitle">
                         {{ post.subtitle }}
-                      </h3>
-                      {% endif %}
-                     {% if post.categories %}
-                      <h3 class="post-subtitle">
-                        {{ post.categories }}
                       </h3>
                       {% endif %}
                     </a>
@@ -418,7 +410,5 @@ subtitle: Hire Web Developer &amp; SEO Specialist in London
                 </div>
             </section>
         </div>
-
-
 
 
