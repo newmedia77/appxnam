@@ -743,7 +743,7 @@ section#contact .text-danger {
 }
 
 /* =-=-=-=-=-=-= Web tips =-=-=-=-=-=-= */
-.web-tips ul {
+ul.web-tips{
     margin-bottom: 10px;
 }
 
