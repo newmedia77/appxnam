@@ -742,7 +742,10 @@ section#contact .text-danger {
     transition: all 0.4s ease-in-out;
 }
 
-
+/* =-=-=-=-=-=-= Web tips =-=-=-=-=-=-= */
+.web-tips ul {
+    margin-bottom: 10px;
+}
 
 
 
