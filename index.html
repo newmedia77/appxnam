@@ -378,11 +378,6 @@ subtitle: Hire Web Developer &amp; SEO Specialist in London
                         {{ post.subtitle }}
                       </h3>
                       {% endif %}
-                      {% if post.category %}
-                      <h3 class="post-subtitle">
-                        {{ post.categories }}
-                      </h3>
-                      {% endif %}
                     </a>
 
                     <p class="post-meta">
@@ -414,13 +409,6 @@ subtitle: Hire Web Developer &amp; SEO Specialist in London
                 {% endif %}
                 </div>
             </section>
-                    <article class="post-content">
-        <ul class="posts-list">
-            {% for post in paginator.posts %}
-            <li><strong><a class="post-link" href="{{ post.url | remove_first: '/' | prepend: site.baseurl }}">{{ post.title }}</a></strong><span class="post-date"> - {{ post.date | date: "%B %-d, %Y" }}</span></li>
-            {% endfor %}
-        </ul>
-    </article>
         </div>
 
 
