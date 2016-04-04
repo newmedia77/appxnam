@@ -368,6 +368,9 @@ subtitle: Hire Web Developer &amp; SEO Specialist in London
                 <section id="blog">
                    <div class="container">
                     <div class="row">
+                            {% if post.categories == "webhelp" %}
+                            {% exclude categories.webhelp %}
+                        {% endif %}
                   {% for post in paginator.posts %}
                      <article class="post-preview">
                      <a href="{{ post.url | prepend: site.baseurl }}">
