@@ -872,3 +872,8 @@ li {
     color: #fff;
     position: relative;
 }
+/* =-=-=-=-= H2 sub head =-=-=-=-= */
+.big-text {
+    font-size: 2em;
+    color: #ffa500;
+}
