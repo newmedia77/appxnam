@@ -192,7 +192,7 @@ subtitle: Hire Web Developer &amp; SEO Specialist in London
             <div class="container">
                 <div class="row">
                     <div class="col-sm-7">
-                        <h2>Website Optimization <span class="big-text">for serious businesses</span></h2>
+                        <h2>Website Optimization <span class="big-text">&amp; SEO Services</span></h2>
                         <p>We provide various website solutions such as:</p>
                          <ul>
                             <li><i class="fa fa-rocket fa-1x"></i>&nbsp; &nbsp; Site Speed Enhancement,</li>
@@ -368,6 +368,9 @@ subtitle: Hire Web Developer &amp; SEO Specialist in London
                 <section id="blog">
                    <div class="container">
                     <div class="row">
+                        {% for post in site.categories.company limit: 1 %}
+                        {{ exclude }}
+                        {% endfor %}
                   {% for post in paginator.posts %}
                      <article class="post-preview">
                      <a href="{{ post.url | prepend: site.baseurl }}">
