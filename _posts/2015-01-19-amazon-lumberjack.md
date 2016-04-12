@@ -3,7 +3,7 @@ layout: post
 title: Amazon Lumberyard
 subtitle: Great news from Amazon AWS
 date: 2016-02-11 13:59:00
-Author: Andreas Adhen
+Author: Andreas
 categories: webdev
 ---
 
