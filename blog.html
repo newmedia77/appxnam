@@ -4,16 +4,12 @@ title: Web news
 subtitle: Latest in website development
 ---
 
-ture
         <!-- post -->
         <div class="posts-list">
             <h2 class="webnews-title">Web Development Blog</h2>
                 <section id="blog">
                    <div class="container">
                     <div class="row">
-                        {% for post in site.categories.company limit: 1 %}
-                        {{ exclude }}
-                        {% endfor %}
                   {% for post in paginator.posts %}
                      <article class="post-preview">
                      <a href="{{ post.url | prepend: site.baseurl }}">
