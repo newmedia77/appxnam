@@ -162,8 +162,12 @@ li {
 }
 .creative-section .btn {
     margin-top: 42px;
+    background: #2C3E50;
 }
-
+.creative-section .btn:hover {
+    margin-top: 42px;
+    background-color: #fed136;
+}
 .mac-screenshot {
     padding-top: 60px;
 }
