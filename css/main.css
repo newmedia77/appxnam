@@ -29,7 +29,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #FED136;
+  color: #FFA726;
 }
 blockquote {
   color: #808080;
@@ -64,12 +64,12 @@ hr.small {
 ::-moz-selection {
   color: white;
   text-shadow: none;
-  background: #FED136;
+  background: #FFA726;
 }
 ::selection {
   color: white;
   text-shadow: none;
-  background: #FED136
+  background: #FFA726
 }
 img::selection {
   color: white;
@@ -388,8 +388,8 @@ header.home-header .home-page-heading .home-page-subheading {
 .pager li a:hover,
 .pager li a:focus {
   color: #FFF;
-  background: #FED136;
-  border: 1px solid #FED136;
+  background: #FFA726;
+  border: 1px solid #FFA726;
 }
 
 .pager {

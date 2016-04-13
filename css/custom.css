@@ -45,7 +45,7 @@ aside.clients {
  /* Custom Styles */
 .container-services {
     height: 200px;
-    background: #FED136;
+    background: #FFA726;
     color: #FFFFFF;
     padding: 10px;
  }
@@ -123,7 +123,7 @@ li {
 
 .service-tab li.active i:before,
 .service-tab li:hover i:before{
-    color:#FED136;
+    color:#FFA726;
 }
 
 .service-tab li span{
@@ -135,7 +135,7 @@ li {
 .service-tab li.active:after,
 .service-tab li:hover:after {
     content:"";
-    border-bottom:3px solid #FED136;
+    border-bottom:3px solid #FFA726;
     position: absolute;
     bottom:0;
     left:0;
@@ -153,7 +153,7 @@ li {
 }
 .creative-section h2::after {
     content: "";
-    background-color: #FED136;
+    background-color: #FFA726;
     width: 100px;
     height: 2px;
     position: absolute;
@@ -166,7 +166,7 @@ li {
 }
 .creative-section .btn:hover {
     margin-top: 42px;
-    background-color: #fed136;
+    background-color: #FFA726;
 }
 .mac-screenshot {
     padding-top: 60px;
@@ -457,7 +457,7 @@ li {
     border-bottom: 0;
 }
 .sbox-gutter:hover {
-    background-color: #FED136;
+    background-color: #FFA726;
 }
 
 .sbox-gutter,
@@ -485,7 +485,7 @@ li {
     color: #444444;
 }
 .service-box h3 { 
-    color: #FED136;
+    color: #FFA726;
     font-weight: 700;
     margin-bottom: 20px;
 }
@@ -507,7 +507,7 @@ li {
 .website-optimization h2 span{
     display: block;
     font-size: 45px;
-    color: #FED136;
+    color: #FFA726;
 }
 
 .website-optimization p{
