@@ -486,4 +486,9 @@ select { margin-bottom: 28.8px; max-width: 100%; width: auto; }
     width: 200px;
 }
 }
+.responsive-preview h2 span{
+    display: block;
+    font-size: 45px;
+    color: #FFA726;
+}
 
