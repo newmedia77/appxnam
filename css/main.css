@@ -474,7 +474,8 @@ select { margin-bottom: 28.8px; max-width: 100%; width: auto; }
     background-color: #23527c;
     border-color: #2e6da4;
 }
-.navbar-brand {
+@media (min-width: 768px) {
+  .navbar-brand {
     float: left;
     height: 50px;
     padding: 15px 15px;
@@ -483,3 +484,5 @@ select { margin-bottom: 28.8px; max-width: 100%; width: auto; }
     background: url("http://newmedia77.github.io/newmediasite/img/logos/logo-s.png") no-repeat top;
     width: 200px;
 }
+}
+
