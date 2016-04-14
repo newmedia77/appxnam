@@ -746,3 +746,8 @@ section#contact .text-danger {
 ul.web-tips li {
     margin-bottom: 20px;
 }
+span.big-text{
+    display: block;
+    font-size: 45px;
+    color: #FFA726;
+}
