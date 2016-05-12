@@ -15,10 +15,10 @@ s3_bucket: newaspectmedia.com
    "*": 300
 
 # gzip:
-#   - .html
-#   - .css
-#   - .md
-# gzip_zopfli: true
+   - .html
+   - .css
+   - .md
+ gzip_zopfli: true
 
 # See http://docs.aws.amazon.com/general/latest/gr/rande.html#s3_region for valid endpoints
  s3_endpoint: eu-west-1
